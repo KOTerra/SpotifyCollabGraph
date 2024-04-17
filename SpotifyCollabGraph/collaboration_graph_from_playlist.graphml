@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="song" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ozzy Osbourne" />
+    <node id="Lemmy" />
+    <node id="Motörhead" />
+    <node id="Metallica" />
+    <node id="Probot" />
+    <node id="Nirvana" />
+    <node id="Courtney Love" />
+    <node id="Michael Stipe" />
+    <node id="Jackshit" />
+    <node id="R.E.M." />
+    <node id="Hole" />
+    <node id="Melissa Auf der Maur" />
+    <node id="The Smashing Pumpkins" />
+    <node id="Nine Inch Nails" />
+    <node id="A Perfect Circle" />
+    <node id="Renholdër" />
+    <node id="Wes Borland" />
+    <node id="Limp Bizkit" />
+    <node id="Korn" />
+    <node id="Fred Durst" />
+    <node id="Ice Cube" />
+    <node id="Chino Moreno" />
+    <node id="Deftones" />
+    <node id="✝✝✝ (Crosses)" />
+    <node id="Skrillex" />
+    <node id="Kill The Noise" />
+    <node id="Corey Taylor" />
+    <node id="Slipknot" />
+    <node id="deadmau5" />
+    <node id="Rob Swire" />
+    <node id="The Prodigy" />
+    <node id="Pendulum" />
+    <node id="In Flames" />
+    <node id="Niels Nielsen" />
+    <node id="Ghost" />
+    <node id="Foo Fighters" />
+    <node id="Queens of the Stone Age" />
+    <node id="Dave Grohl" />
+    <node id="Josh Homme" />
+    <node id="Trent Reznor" />
+    <node id="Jack Black" />
+    <node id="Tenacious D" />
+    <node id="Emigrate" />
+    <node id="Marilyn Manson" />
+    <node id="Avril Lavigne" />
+    <node id="Rob Zombie" />
+    <node id="Five Finger Death Punch" />
+    <node id="White Zombie" />
+    <node id="Jonathan Davis" />
+    <node id="Charlie Clouser" />
+    <node id="Cardinal Copia" />
+    <node id="Type O Negative" />
+    <node id="Rammstein" />
+    <edge source="Ozzy Osbourne" target="Lemmy">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+    </edge>
+    <edge source="Ozzy Osbourne" target="Motörhead">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+    </edge>
+    <edge source="Ozzy Osbourne" target="Rob Zombie">
+      <data key="d0">Iron Head</data>
+    </edge>
+    <edge source="Lemmy" target="Motörhead">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+    </edge>
+    <edge source="Lemmy" target="Probot">
+      <data key="d0">Shake Your Blood (feat. Lemmy Kilmister)</data>
+    </edge>
+    <edge source="Lemmy" target="Emigrate">
+      <data key="d0">Rock City</data>
+    </edge>
+    <edge source="Probot" target="Jack Black">
+      <data key="d0">I Am the Warlock (feat. Jack Black)</data>
+    </edge>
+    <edge source="Courtney Love" target="Michael Stipe">
+      <data key="d0">Rio Grande</data>
+    </edge>
+    <edge source="Courtney Love" target="Jackshit">
+      <data key="d0">Rio Grande</data>
+    </edge>
+    <edge source="Michael Stipe" target="Jackshit">
+      <data key="d0">Rio Grande</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Renholdër">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Wes Borland">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+    </edge>
+    <edge source="Renholdër" target="Wes Borland">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+    </edge>
+    <edge source="Korn" target="Fred Durst">
+      <data key="d0">All In the Family (feat. Fred Durst)</data>
+    </edge>
+    <edge source="Korn" target="Ice Cube">
+      <data key="d0">Children of the Korn (feat. Ice Cube)</data>
+    </edge>
+    <edge source="Korn" target="Chino Moreno">
+      <data key="d0">Wicked (feat. Chino Moreno)</data>
+    </edge>
+    <edge source="Korn" target="Skrillex">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+    </edge>
+    <edge source="Korn" target="Kill The Noise">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+    </edge>
+    <edge source="Korn" target="Corey Taylor">
+      <data key="d0">A Different World (feat. Corey Taylor)</data>
+    </edge>
+    <edge source="Skrillex" target="Kill The Noise">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+    </edge>
+    <edge source="deadmau5" target="Rob Swire">
+      <data key="d0">Ghosts 'n' Stuff</data>
+    </edge>
+    <edge source="The Prodigy" target="Pendulum">
+      <data key="d0">Voodoo People - Pendulum Mix</data>
+    </edge>
+    <edge source="Pendulum" target="In Flames">
+      <data key="d0">Self vs Self (feat. In Flames)</data>
+    </edge>
+    <edge source="Dave Grohl" target="Josh Homme">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Dave Grohl" target="Trent Reznor">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Josh Homme" target="Trent Reznor">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Emigrate" target="Marilyn Manson">
+      <data key="d0">Hypothetical</data>
+    </edge>
+    <edge source="Emigrate" target="Cardinal Copia">
+      <data key="d0">I'm Not Afraid</data>
+    </edge>
+    <edge source="Emigrate" target="Jonathan Davis">
+      <data key="d0">Silent So Long</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Avril Lavigne">
+      <data key="d0">Bad Girl (feat. Marilyn Manson)</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Rob Zombie">
+      <data key="d0">Helter Skelter</data>
+    </edge>
+    <edge source="Rob Zombie" target="Five Finger Death Punch">
+      <data key="d0">Burn MF (feat Rob Zombie)</data>
+    </edge>
+    <edge source="Rob Zombie" target="White Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+    </edge>
+    <edge source="Rob Zombie" target="Jonathan Davis">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+    </edge>
+    <edge source="Rob Zombie" target="Charlie Clouser">
+      <data key="d0">Reload</data>
+    </edge>
+    <edge source="White Zombie" target="Jonathan Davis">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+    </edge>
+    <edge source="Charlie Clouser" target="Type O Negative">
+      <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
+    </edge>
+  </graph>
+</graphml>
