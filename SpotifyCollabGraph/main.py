@@ -4,8 +4,9 @@ import networkx as nx
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import discogs_client
+import requests
 
-# Authenticate with Spotify API
+# tokens
 client_credentials_manager = SpotifyClientCredentials(client_id='9a324ce2de004464916503c99da4c2f2',
                                                       client_secret='6855817946bf4204b187537c4c47dd70')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
@@ -39,7 +40,24 @@ def discogs_test():
         print(f"- {track.title}")
 
 
+# Function to check Discogs rate limit and handle rate-limiting errors
+def check_discogs_rate_limit():
+    # Perform a dummy API call to check the rate limits
+    response = requests.get("https://api.discogs.com/", headers={'User-Agent': 'Your-Unique-App/1.0'})
+
+    # Check for rate limiting headers
+    rate_limit_remaining = int(response.headers.get('X-Discogs-Ratelimit-Remaining', 1))
+    rate_limit_reset = int(response.headers.get('X-Discogs-Ratelimit-Reset', time.time() + 60))
+
+    if rate_limit_remaining == 0:
+        reset_time = rate_limit_reset - time.time()
+        print(f"Discogs rate limit reached. Sleeping for {reset_time + 5} seconds...")
+        time.sleep(reset_time + 5)  # Sleep until rate limit is reset
+
+
 def get_band_members(band_name_str):
+    check_discogs_rate_limit()
+
     results = discogs.search(band_name_str, type="artist")
 
     if results:
@@ -75,28 +93,26 @@ def get_playlist_tracks(playlist_id):
     return tracks
 
 
-# Function to construct the collaboration graph from a playlist
 def construct_graph_from_playlist(playlist_id):
     G = nx.Graph()
     tracks = get_playlist_tracks(playlist_id)
 
-    # Add all artists as nodes
+    #add all artists as nodes
     for track in tracks:
         artists = track['artists']
         for artist in artists:
             if artist not in G:
                 G.add_node(artist)
 
-                # Get the bands of the artist from Discogs and add edges between the artist and their bands
+                #get the bands of the artist from Discogs and add edges between the artist and their bands
                 band_memberships = get_band_members(artist)
                 if band_memberships:
                     for member in band_memberships:
                         if member.name not in G:
                             G.add_node(member.name)
-                        G.add_edge(artist, member.name)  # Edge between artist and band
+                        G.add_edge(artist, member.name)
                         print(f"  {member.name} --in--> {artist} ")
 
-    # Add edges between artists (collaborations)
     for track in tracks:
         artists = track['artists']
         for i in range(len(artists)):
@@ -111,10 +127,9 @@ def export_graph(G, filename):
     nx.write_graphml(G, filename)
 
 
-# Function to visualize the graph
 def visualize_graph(G):
     plt.figure(figsize=(10, 8))
-    pos = nx.spring_layout(G, k=2, iterations=50)  # Layout algorithm
+    pos = nx.spring_layout(G, k=2, iterations=50)
     nx.draw(G, pos, with_labels=True, node_size=1000, node_color='skyblue', font_size=5, font_weight='bold')
     plt.title('Artist Collaborations')
     plt.show()
