@@ -5,72 +5,352 @@
     <node id="Ozzy Osbourne" />
     <node id="Lemmy" />
     <node id="Motörhead" />
+    <node id="Larry Wallis" />
+    <node id="Eddie Clarke" />
+    <node id="Pete Gill" />
+    <node id="Brian Robertson" />
+    <node id="Phil Campbell" />
+    <node id="Phil Taylor" />
+    <node id="Lucas Fox" />
+    <node id="Michael Burston" />
+    <node id="Ian Fraser Kilmister" />
+    <node id="Micael Kiriakos Delaoglou" />
     <node id="Metallica" />
+    <node id="Kirk Hammett" />
+    <node id="Lars Ulrich" />
+    <node id="Dave Mustaine" />
+    <node id="James Hetfield" />
+    <node id="Cliff Burton" />
+    <node id="Jason Newsted" />
+    <node id="Robert Trujillo" />
+    <node id="Ron McGovney" />
     <node id="Probot" />
+    <node id="Dave Grohl" />
+    <node id="Matt Sweeney" />
+    <node id="Adam Kasper" />
     <node id="Nirvana" />
+    <node id="Chad Channing" />
+    <node id="Dan Peters" />
+    <node id="Dale Crover" />
+    <node id="Kurt Cobain" />
+    <node id="Krist Novoselic" />
+    <node id="Jason Everman" />
+    <node id="Aaron Burckhard" />
+    <node id="Dave Foster (14)" />
     <node id="Courtney Love" />
     <node id="Michael Stipe" />
     <node id="Jackshit" />
+    <node id="Steve Youth" />
+    <node id="Dave Fry" />
+    <node id="Ben Wa (2)" />
     <node id="R.E.M." />
+    <node id="Mike Mills" />
+    <node id="Peter Buck" />
+    <node id="Bill Berry (2)" />
+    <node id="Bertis Downs IV" />
+    <node id="Jefferson Holt" />
     <node id="Hole" />
+    <node id="Melissa Auf Der Maur" />
+    <node id="Eric Erlandson" />
+    <node id="Jill Emery" />
+    <node id="Leslie Hardy" />
+    <node id="Patty Schemel" />
+    <node id="Samantha Maloney" />
+    <node id="Kristen Pfaff" />
+    <node id="Caroline Rue" />
+    <node id="Micko Larkin" />
+    <node id="Shawn Dailey" />
+    <node id="Stuart Fisher (2)" />
     <node id="Melissa Auf der Maur" />
     <node id="The Smashing Pumpkins" />
+    <node id="Billy Corgan" />
+    <node id="James Iha" />
+    <node id="Jimmy Chamberlin" />
+    <node id="Ginger Reyes" />
+    <node id="D'Arcy Wretzky" />
+    <node id="Nicole Fiorentino" />
+    <node id="Jeff Schroeder" />
+    <node id="Mike Byrne (2)" />
     <node id="Nine Inch Nails" />
+    <node id="Chris Vrenna" />
+    <node id="Martin Atkins" />
+    <node id="Joshua Eustis" />
+    <node id="Trent Reznor" />
+    <node id="Charlie Clouser" />
+    <node id="Danny Lohner" />
+    <node id="Jerome Dillon" />
+    <node id="Adrian Belew" />
+    <node id="Lisa Fischer" />
+    <node id="Richard Patrick" />
+    <node id="Sharlotte Gibson" />
+    <node id="Pino Palladino" />
+    <node id="Robin Finck" />
+    <node id="Atticus Ross" />
+    <node id="Kevin McMahon" />
+    <node id="Josh Freese" />
+    <node id="Justin Meldal-Johnsen" />
+    <node id="Eric Avery" />
+    <node id="Jeordie White" />
+    <node id="Alex Carapetis" />
+    <node id="Jeff Ward" />
+    <node id="James Wooley" />
+    <node id="Aaron North" />
+    <node id="Alessandro Cortini" />
+    <node id="Nick Rushe" />
+    <node id="Lee Mars" />
+    <node id="Ilan Rubin" />
+    <node id="Gary Talpas" />
+    <node id="Rich Fownes" />
+    <node id="Ron Musarra" />
+    <node id="David Haymes" />
     <node id="A Perfect Circle" />
+    <node id="Troy Van Leeuwen" />
+    <node id="Paz Lenchantin" />
+    <node id="Maynard James Keenan" />
+    <node id="Billy Howerdel" />
+    <node id="Tim &quot;Herb&quot; Alexander" />
+    <node id="Jeff Friedl" />
+    <node id="Matt Mcjunkins" />
     <node id="Renholdër" />
     <node id="Wes Borland" />
     <node id="Limp Bizkit" />
-    <node id="Korn" />
     <node id="Fred Durst" />
+    <node id="John Otto" />
+    <node id="Terry Balsamo" />
+    <node id="Leor Dimant" />
+    <node id="Sammy Siegler" />
+    <node id="Sam Rivers (2)" />
+    <node id="Mike Smith (15)" />
+    <node id="Rob Waters (2)" />
+    <node id="Korn" />
+    <node id="Jonathan Davis" />
+    <node id="David Silveria" />
+    <node id="Ray Luzier" />
+    <node id="Brian Welch" />
+    <node id="James Shaffer" />
+    <node id="Reginald Arvizu" />
     <node id="Ice Cube" />
     <node id="Chino Moreno" />
     <node id="Deftones" />
+    <node id="Sergio Vega" />
+    <node id="Frank Delgado" />
+    <node id="Abe Cunningham" />
+    <node id="Chi Cheng" />
+    <node id="Stephen Carpenter" />
+    <node id="Dominic Garcia" />
+    <node id="John Taylor (31)" />
     <node id="✝✝✝ (Crosses)" />
     <node id="Skrillex" />
     <node id="Kill The Noise" />
     <node id="Corey Taylor" />
     <node id="Slipknot" />
+    <node id="Joey Jordison" />
+    <node id="James Root" />
+    <node id="Sid Wilson" />
+    <node id="Chris Fehn" />
+    <node id="Paul Gray (3)" />
+    <node id="Shawn Crahan" />
+    <node id="Craig Jones (2)" />
+    <node id="Mick Thomson" />
+    <node id="Josh Brainard" />
+    <node id="Michael Pfaff" />
+    <node id="Donnie Steele" />
+    <node id="Jay Weinberg" />
+    <node id="Brandon Darner" />
+    <node id="Eloy Casagrande" />
+    <node id="Greg Welts" />
+    <node id="Alessandro Venturella" />
+    <node id="Kun P. Nong" />
+    <node id="Andy Rouw" />
     <node id="deadmau5" />
     <node id="Rob Swire" />
     <node id="The Prodigy" />
+    <node id="Liam Howlett" />
+    <node id="Keith Flint" />
+    <node id="Leeroy Thornhill" />
+    <node id="Keith Palmer" />
     <node id="Pendulum" />
+    <node id="Jakes" />
+    <node id="Paul Kodish" />
+    <node id="El Hornet" />
+    <node id="Peredur Ap Gwynedd" />
+    <node id="Gareth McGrillen" />
+    <node id="Paul Harding (3)" />
+    <node id="KJ Sawka" />
+    <node id="Benjamin Mount" />
+    <node id="Matt White (3)" />
     <node id="In Flames" />
+    <node id="Jesper Strömblad" />
+    <node id="Anders Fridén" />
+    <node id="Daniel Erlandsson" />
+    <node id="Anders Iwers" />
+    <node id="Johan Larsson" />
+    <node id="Glenn Ljungström" />
+    <node id="Björn Gelotte" />
+    <node id="Carl Näslund" />
+    <node id="Daniel Svensson" />
+    <node id="Peter Iwers" />
+    <node id="Chris Broderick" />
+    <node id="Niclas Engelin" />
+    <node id="Joe Rickard" />
+    <node id="Tanner Wayne" />
+    <node id="Bryce Paul Newman" />
     <node id="Niels Nielsen" />
     <node id="Ghost" />
+    <node id="Martin Persner" />
+    <node id="Simon Söderberg" />
+    <node id="Tobias Forge" />
+    <node id="Rikard Ottosson" />
+    <node id="Aksel Holmgren" />
+    <node id="Gustaf Lindström" />
+    <node id="Megan X Thomas" />
     <node id="Foo Fighters" />
+    <node id="Taylor Hawkins" />
+    <node id="Rami Jaffee" />
+    <node id="Nate Mendel" />
+    <node id="William Goldsmith" />
+    <node id="Franz Stahl" />
+    <node id="Chris Shiflett" />
+    <node id="Georg Ruthenberg" />
     <node id="Queens of the Stone Age" />
-    <node id="Dave Grohl" />
+    <node id="Mark Lanegan" />
     <node id="Josh Homme" />
-    <node id="Trent Reznor" />
+    <node id="Alain Johannes" />
+    <node id="Chris Goss" />
+    <node id="Nick Oliveri" />
+    <node id="Jon Theodore" />
+    <node id="Natasha Shneider" />
+    <node id="Joey Castillo" />
+    <node id="David Catching" />
+    <node id="Matt Cameron" />
+    <node id="John McBain" />
+    <node id="Van Conner" />
+    <node id="Mario Lalli" />
+    <node id="Jason Albertini" />
+    <node id="Eva Nahon" />
+    <node id="Milo Beenhakker" />
+    <node id="Alfredo Hernandez" />
+    <node id="Dan Druff" />
+    <node id="Mike Johnson (8)" />
+    <node id="Gene Trautmann" />
+    <node id="Nick Lucero" />
+    <node id="Dean Fertita" />
+    <node id="Mikey Shuman" />
+    <node id="Brendon McNichol" />
     <node id="Jack Black" />
     <node id="Tenacious D" />
+    <node id="Jack Black (2)" />
+    <node id="Kyle Gass" />
     <node id="Emigrate" />
+    <node id="Olsen Involtini" />
+    <node id="Mikko Sirén" />
+    <node id="Richard Kruspe Bernstein" />
+    <node id="Henka Johansson" />
+    <node id="Arnaud Giroux" />
+    <node id="Margaux Bossieux" />
+    <node id="Joe Letz" />
     <node id="Marilyn Manson" />
+    <node id="Tyler Bates" />
+    <node id="Ginger Fish" />
+    <node id="Scott Putesky" />
+    <node id="Tim Skold" />
+    <node id="Juan Alderete de la Pena" />
+    <node id="John Lowery" />
+    <node id="Sara Lee Lucas" />
+    <node id="Gil Sharone" />
+    <node id="Brad Stewart" />
+    <node id="Brian Warner (2)" />
+    <node id="Timothy Linton" />
+    <node id="Matt Montgomery (2)" />
+    <node id="Stephen Bier" />
+    <node id="Daniel Fox (2)" />
+    <node id="Fred Sablan" />
+    <node id="Reba Meyers" />
+    <node id="Paul Wiley (2)" />
+    <node id="Brandon Pertzborn" />
     <node id="Avril Lavigne" />
     <node id="Rob Zombie" />
     <node id="Five Finger Death Punch" />
+    <node id="Darrell Roberts" />
+    <node id="Jeremy Spencer (2)" />
+    <node id="Zoltan Bathory" />
+    <node id="Ivan Moody (2)" />
+    <node id="Jason Hook" />
+    <node id="Matt Snell" />
+    <node id="Chris Kael" />
+    <node id="Caleb Bingham" />
+    <node id="Andy James (9)" />
+    <node id="Charlie Engen" />
     <node id="White Zombie" />
-    <node id="Jonathan Davis" />
-    <node id="Charlie Clouser" />
+    <node id="Jay Yuenger" />
+    <node id="John Tempesta" />
+    <node id="Ivan DePrume" />
+    <node id="John Ricci" />
+    <node id="Phil Buerstatte" />
+    <node id="Tim Jeffs" />
+    <node id="Peter Landau" />
+    <node id="Paul &quot;Ena&quot; Kostabi" />
+    <node id="Shauna Reynolds" />
+    <node id="Robert Cummings (2)" />
+    <node id="Tom Guay (2)" />
     <node id="Cardinal Copia" />
     <node id="Type O Negative" />
+    <node id="Josh Silver" />
+    <node id="Johnny Kelly" />
+    <node id="Kenny Hickey" />
+    <node id="Sal Abruscato" />
+    <node id="Peter Ratajczyk" />
     <node id="Rammstein" />
+    <node id="Christoph Schneider" />
+    <node id="Paul Landers" />
+    <node id="Christian Lorenz" />
+    <node id="Till Lindemann" />
+    <node id="Oliver Riedel" />
     <node id="Killing Joke" />
+    <node id="Paul Raven" />
+    <node id="Greg Hunter" />
+    <node id="Jaz Coleman" />
+    <node id="Kris Kylven" />
+    <node id="Ted Parsons" />
+    <node id="Paul Ferguson (2)" />
+    <node id="Geordie Walker" />
+    <node id="Reza Udhin" />
+    <node id="Geoff Dugmore" />
+    <node id="Ben Calvert" />
+    <node id="Martin Glover" />
+    <node id="Dave Ball (3)" />
+    <node id="Kneill Brown" />
     <node id="Tom Dalgety" />
     <node id="Nick Evans" />
     <node id="Massive Attack" />
+    <node id="Robert Del Naja" />
+    <node id="Grant Marshall" />
+    <node id="Andrew Vowles" />
+    <node id="Adrian Thaws" />
     <node id="Elizabeth Fraser" />
     <node id="Cocteau Twins" />
+    <node id="Robin Guthrie" />
+    <node id="Simon Raymonde" />
+    <node id="Ben Blakeman" />
+    <node id="Will Heggie" />
     <node id="Harold Budd" />
     <node id="Jeff Buckley" />
     <node id="Westside Gunn" />
     <node id="Spice" />
+    <node id="Emma Bunton" />
+    <node id="Geri Halliwell" />
+    <node id="Melanie Chisholm" />
+    <node id="Melanie Brown" />
+    <node id="Victoria Adams" />
     <node id="Sean Paul" />
     <node id="Shaggy" />
     <node id="Costi" />
     <node id="Boy Spyce" />
     <node id="Konshens" />
     <node id="Sting" />
+    <node id="MCC [Magna Carta Cartel]" />
+    <node id="Arvid Persner" />
+    <node id="Pär Glendor" />
     <edge source="Ozzy Osbourne" target="Lemmy">
       <data key="d0">Hellraiser - 30th Anniversary Edition</data>
     </edge>
@@ -89,30 +369,171 @@
     <edge source="Lemmy" target="Emigrate">
       <data key="d0">Rock City</data>
     </edge>
+    <edge source="Motörhead" target="Larry Wallis" />
+    <edge source="Motörhead" target="Eddie Clarke" />
+    <edge source="Motörhead" target="Pete Gill" />
+    <edge source="Motörhead" target="Brian Robertson" />
+    <edge source="Motörhead" target="Phil Campbell" />
+    <edge source="Motörhead" target="Phil Taylor" />
+    <edge source="Motörhead" target="Lucas Fox" />
+    <edge source="Motörhead" target="Michael Burston" />
+    <edge source="Motörhead" target="Ian Fraser Kilmister" />
+    <edge source="Motörhead" target="Micael Kiriakos Delaoglou" />
+    <edge source="Metallica" target="Kirk Hammett" />
+    <edge source="Metallica" target="Lars Ulrich" />
+    <edge source="Metallica" target="Dave Mustaine" />
+    <edge source="Metallica" target="James Hetfield" />
+    <edge source="Metallica" target="Cliff Burton" />
+    <edge source="Metallica" target="Jason Newsted" />
+    <edge source="Metallica" target="Robert Trujillo" />
+    <edge source="Metallica" target="Ron McGovney" />
+    <edge source="Probot" target="Dave Grohl" />
+    <edge source="Probot" target="Matt Sweeney" />
+    <edge source="Probot" target="Adam Kasper" />
     <edge source="Probot" target="Jack Black">
       <data key="d0">I Am the Warlock (feat. Jack Black)</data>
     </edge>
+    <edge source="Dave Grohl" target="Nirvana" />
+    <edge source="Dave Grohl" target="Foo Fighters" />
+    <edge source="Dave Grohl" target="Queens of the Stone Age" />
+    <edge source="Dave Grohl" target="Killing Joke" />
+    <edge source="Dave Grohl" target="Josh Homme">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Dave Grohl" target="Trent Reznor">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Nirvana" target="Chad Channing" />
+    <edge source="Nirvana" target="Dan Peters" />
+    <edge source="Nirvana" target="Dale Crover" />
+    <edge source="Nirvana" target="Kurt Cobain" />
+    <edge source="Nirvana" target="Krist Novoselic" />
+    <edge source="Nirvana" target="Jason Everman" />
+    <edge source="Nirvana" target="Aaron Burckhard" />
+    <edge source="Nirvana" target="Dave Foster (14)" />
+    <edge source="Courtney Love" target="Hole" />
     <edge source="Courtney Love" target="Michael Stipe">
       <data key="d0">Rio Grande</data>
     </edge>
     <edge source="Courtney Love" target="Jackshit">
       <data key="d0">Rio Grande</data>
     </edge>
+    <edge source="Michael Stipe" target="R.E.M." />
     <edge source="Michael Stipe" target="Jackshit">
       <data key="d0">Rio Grande</data>
     </edge>
+    <edge source="Jackshit" target="Steve Youth" />
+    <edge source="Jackshit" target="Dave Fry" />
+    <edge source="Jackshit" target="Ben Wa (2)" />
+    <edge source="R.E.M." target="Mike Mills" />
+    <edge source="R.E.M." target="Peter Buck" />
+    <edge source="R.E.M." target="Bill Berry (2)" />
+    <edge source="R.E.M." target="Bertis Downs IV" />
+    <edge source="R.E.M." target="Jefferson Holt" />
+    <edge source="Hole" target="Melissa Auf Der Maur" />
+    <edge source="Hole" target="Eric Erlandson" />
+    <edge source="Hole" target="Jill Emery" />
+    <edge source="Hole" target="Leslie Hardy" />
+    <edge source="Hole" target="Patty Schemel" />
+    <edge source="Hole" target="Samantha Maloney" />
+    <edge source="Hole" target="Kristen Pfaff" />
+    <edge source="Hole" target="Caroline Rue" />
+    <edge source="Hole" target="Micko Larkin" />
+    <edge source="Hole" target="Shawn Dailey" />
+    <edge source="Hole" target="Stuart Fisher (2)" />
+    <edge source="Melissa Auf Der Maur" target="The Smashing Pumpkins" />
+    <edge source="The Smashing Pumpkins" target="Billy Corgan" />
+    <edge source="The Smashing Pumpkins" target="James Iha" />
+    <edge source="The Smashing Pumpkins" target="Jimmy Chamberlin" />
+    <edge source="The Smashing Pumpkins" target="Ginger Reyes" />
+    <edge source="The Smashing Pumpkins" target="D'Arcy Wretzky" />
+    <edge source="The Smashing Pumpkins" target="Nicole Fiorentino" />
+    <edge source="The Smashing Pumpkins" target="Jeff Schroeder" />
+    <edge source="The Smashing Pumpkins" target="Mike Byrne (2)" />
+    <edge source="James Iha" target="A Perfect Circle" />
+    <edge source="Nine Inch Nails" target="Chris Vrenna" />
+    <edge source="Nine Inch Nails" target="Martin Atkins" />
+    <edge source="Nine Inch Nails" target="Joshua Eustis" />
+    <edge source="Nine Inch Nails" target="Trent Reznor" />
+    <edge source="Nine Inch Nails" target="Charlie Clouser" />
+    <edge source="Nine Inch Nails" target="Danny Lohner" />
+    <edge source="Nine Inch Nails" target="Jerome Dillon" />
+    <edge source="Nine Inch Nails" target="Adrian Belew" />
+    <edge source="Nine Inch Nails" target="Lisa Fischer" />
+    <edge source="Nine Inch Nails" target="Richard Patrick" />
+    <edge source="Nine Inch Nails" target="Sharlotte Gibson" />
+    <edge source="Nine Inch Nails" target="Pino Palladino" />
+    <edge source="Nine Inch Nails" target="Robin Finck" />
+    <edge source="Nine Inch Nails" target="Atticus Ross" />
+    <edge source="Nine Inch Nails" target="Kevin McMahon" />
+    <edge source="Nine Inch Nails" target="Josh Freese" />
+    <edge source="Nine Inch Nails" target="Justin Meldal-Johnsen" />
+    <edge source="Nine Inch Nails" target="Eric Avery" />
+    <edge source="Nine Inch Nails" target="Jeordie White" />
+    <edge source="Nine Inch Nails" target="Alex Carapetis" />
+    <edge source="Nine Inch Nails" target="Jeff Ward" />
+    <edge source="Nine Inch Nails" target="James Wooley" />
+    <edge source="Nine Inch Nails" target="Aaron North" />
+    <edge source="Nine Inch Nails" target="Alessandro Cortini" />
+    <edge source="Nine Inch Nails" target="Nick Rushe" />
+    <edge source="Nine Inch Nails" target="Lee Mars" />
+    <edge source="Nine Inch Nails" target="Ilan Rubin" />
+    <edge source="Nine Inch Nails" target="Gary Talpas" />
+    <edge source="Nine Inch Nails" target="Rich Fownes" />
+    <edge source="Nine Inch Nails" target="Ron Musarra" />
+    <edge source="Nine Inch Nails" target="David Haymes" />
+    <edge source="Chris Vrenna" target="Marilyn Manson" />
+    <edge source="Martin Atkins" target="Killing Joke" />
+    <edge source="Trent Reznor" target="Josh Homme">
+      <data key="d0">Mantra</data>
+    </edge>
+    <edge source="Charlie Clouser" target="Rob Zombie">
+      <data key="d0">Reload</data>
+    </edge>
+    <edge source="Charlie Clouser" target="Type O Negative">
+      <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
+    </edge>
+    <edge source="Danny Lohner" target="A Perfect Circle" />
+    <edge source="Josh Freese" target="A Perfect Circle" />
+    <edge source="Josh Freese" target="Foo Fighters" />
+    <edge source="Jeordie White" target="A Perfect Circle" />
+    <edge source="Jeordie White" target="Marilyn Manson" />
+    <edge source="A Perfect Circle" target="Troy Van Leeuwen" />
+    <edge source="A Perfect Circle" target="Paz Lenchantin" />
+    <edge source="A Perfect Circle" target="Maynard James Keenan" />
+    <edge source="A Perfect Circle" target="Billy Howerdel" />
+    <edge source="A Perfect Circle" target="Tim &quot;Herb&quot; Alexander" />
+    <edge source="A Perfect Circle" target="Jeff Friedl" />
+    <edge source="A Perfect Circle" target="Matt Mcjunkins" />
     <edge source="A Perfect Circle" target="Renholdër">
       <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
     </edge>
     <edge source="A Perfect Circle" target="Wes Borland">
       <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
     </edge>
+    <edge source="Troy Van Leeuwen" target="Queens of the Stone Age" />
     <edge source="Renholdër" target="Wes Borland">
       <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
     </edge>
-    <edge source="Korn" target="Fred Durst">
+    <edge source="Wes Borland" target="Limp Bizkit" />
+    <edge source="Wes Borland" target="Marilyn Manson" />
+    <edge source="Limp Bizkit" target="Fred Durst" />
+    <edge source="Limp Bizkit" target="John Otto" />
+    <edge source="Limp Bizkit" target="Terry Balsamo" />
+    <edge source="Limp Bizkit" target="Leor Dimant" />
+    <edge source="Limp Bizkit" target="Sammy Siegler" />
+    <edge source="Limp Bizkit" target="Sam Rivers (2)" />
+    <edge source="Limp Bizkit" target="Mike Smith (15)" />
+    <edge source="Limp Bizkit" target="Rob Waters (2)" />
+    <edge source="Fred Durst" target="Korn">
       <data key="d0">All In the Family (feat. Fred Durst)</data>
     </edge>
+    <edge source="Korn" target="Jonathan Davis" />
+    <edge source="Korn" target="David Silveria" />
+    <edge source="Korn" target="Ray Luzier" />
+    <edge source="Korn" target="Brian Welch" />
+    <edge source="Korn" target="James Shaffer" />
+    <edge source="Korn" target="Reginald Arvizu" />
     <edge source="Korn" target="Ice Cube">
       <data key="d0">Children of the Korn (feat. Ice Cube)</data>
     </edge>
@@ -128,36 +549,158 @@
     <edge source="Korn" target="Corey Taylor">
       <data key="d0">A Different World (feat. Corey Taylor)</data>
     </edge>
+    <edge source="Jonathan Davis" target="Rob Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+    </edge>
+    <edge source="Jonathan Davis" target="White Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+    </edge>
+    <edge source="Jonathan Davis" target="Emigrate">
+      <data key="d0">Silent So Long</data>
+    </edge>
+    <edge source="Chino Moreno" target="Deftones" />
+    <edge source="Deftones" target="Sergio Vega" />
+    <edge source="Deftones" target="Frank Delgado" />
+    <edge source="Deftones" target="Abe Cunningham" />
+    <edge source="Deftones" target="Chi Cheng" />
+    <edge source="Deftones" target="Stephen Carpenter" />
+    <edge source="Deftones" target="Dominic Garcia" />
+    <edge source="Deftones" target="John Taylor (31)" />
     <edge source="Skrillex" target="Kill The Noise">
       <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
     </edge>
+    <edge source="Corey Taylor" target="Slipknot" />
+    <edge source="Slipknot" target="Joey Jordison" />
+    <edge source="Slipknot" target="James Root" />
+    <edge source="Slipknot" target="Sid Wilson" />
+    <edge source="Slipknot" target="Chris Fehn" />
+    <edge source="Slipknot" target="Paul Gray (3)" />
+    <edge source="Slipknot" target="Shawn Crahan" />
+    <edge source="Slipknot" target="Craig Jones (2)" />
+    <edge source="Slipknot" target="Mick Thomson" />
+    <edge source="Slipknot" target="Josh Brainard" />
+    <edge source="Slipknot" target="Michael Pfaff" />
+    <edge source="Slipknot" target="Donnie Steele" />
+    <edge source="Slipknot" target="Jay Weinberg" />
+    <edge source="Slipknot" target="Brandon Darner" />
+    <edge source="Slipknot" target="Eloy Casagrande" />
+    <edge source="Slipknot" target="Greg Welts" />
+    <edge source="Slipknot" target="Alessandro Venturella" />
+    <edge source="Slipknot" target="Kun P. Nong" />
+    <edge source="Slipknot" target="Andy Rouw" />
     <edge source="deadmau5" target="Rob Swire">
       <data key="d0">Ghosts 'n' Stuff</data>
     </edge>
+    <edge source="Rob Swire" target="Pendulum" />
+    <edge source="The Prodigy" target="Liam Howlett" />
+    <edge source="The Prodigy" target="Keith Flint" />
+    <edge source="The Prodigy" target="Leeroy Thornhill" />
+    <edge source="The Prodigy" target="Keith Palmer" />
     <edge source="The Prodigy" target="Pendulum">
       <data key="d0">Voodoo People - Pendulum Mix</data>
     </edge>
+    <edge source="Pendulum" target="Jakes" />
+    <edge source="Pendulum" target="Paul Kodish" />
+    <edge source="Pendulum" target="El Hornet" />
+    <edge source="Pendulum" target="Peredur Ap Gwynedd" />
+    <edge source="Pendulum" target="Gareth McGrillen" />
+    <edge source="Pendulum" target="Paul Harding (3)" />
+    <edge source="Pendulum" target="KJ Sawka" />
+    <edge source="Pendulum" target="Benjamin Mount" />
+    <edge source="Pendulum" target="Matt White (3)" />
     <edge source="Pendulum" target="In Flames">
       <data key="d0">Self vs Self (feat. In Flames)</data>
     </edge>
-    <edge source="Dave Grohl" target="Josh Homme">
-      <data key="d0">Mantra</data>
-    </edge>
-    <edge source="Dave Grohl" target="Trent Reznor">
-      <data key="d0">Mantra</data>
-    </edge>
-    <edge source="Josh Homme" target="Trent Reznor">
-      <data key="d0">Mantra</data>
-    </edge>
+    <edge source="In Flames" target="Jesper Strömblad" />
+    <edge source="In Flames" target="Anders Fridén" />
+    <edge source="In Flames" target="Daniel Erlandsson" />
+    <edge source="In Flames" target="Anders Iwers" />
+    <edge source="In Flames" target="Johan Larsson" />
+    <edge source="In Flames" target="Glenn Ljungström" />
+    <edge source="In Flames" target="Björn Gelotte" />
+    <edge source="In Flames" target="Carl Näslund" />
+    <edge source="In Flames" target="Daniel Svensson" />
+    <edge source="In Flames" target="Peter Iwers" />
+    <edge source="In Flames" target="Chris Broderick" />
+    <edge source="In Flames" target="Niclas Engelin" />
+    <edge source="In Flames" target="Joe Rickard" />
+    <edge source="In Flames" target="Tanner Wayne" />
+    <edge source="In Flames" target="Bryce Paul Newman" />
+    <edge source="Ghost" target="Martin Persner" />
+    <edge source="Ghost" target="Simon Söderberg" />
+    <edge source="Ghost" target="Tobias Forge" />
+    <edge source="Ghost" target="Rikard Ottosson" />
+    <edge source="Ghost" target="Aksel Holmgren" />
+    <edge source="Ghost" target="Gustaf Lindström" />
+    <edge source="Ghost" target="Megan X Thomas" />
+    <edge source="Martin Persner" target="MCC [Magna Carta Cartel]" />
+    <edge source="Simon Söderberg" target="MCC [Magna Carta Cartel]" />
+    <edge source="Tobias Forge" target="MCC [Magna Carta Cartel]" />
+    <edge source="Foo Fighters" target="Taylor Hawkins" />
+    <edge source="Foo Fighters" target="Rami Jaffee" />
+    <edge source="Foo Fighters" target="Nate Mendel" />
+    <edge source="Foo Fighters" target="William Goldsmith" />
+    <edge source="Foo Fighters" target="Franz Stahl" />
+    <edge source="Foo Fighters" target="Chris Shiflett" />
+    <edge source="Foo Fighters" target="Georg Ruthenberg" />
+    <edge source="Queens of the Stone Age" target="Mark Lanegan" />
+    <edge source="Queens of the Stone Age" target="Josh Homme" />
+    <edge source="Queens of the Stone Age" target="Alain Johannes" />
+    <edge source="Queens of the Stone Age" target="Chris Goss" />
+    <edge source="Queens of the Stone Age" target="Nick Oliveri" />
+    <edge source="Queens of the Stone Age" target="Jon Theodore" />
+    <edge source="Queens of the Stone Age" target="Natasha Shneider" />
+    <edge source="Queens of the Stone Age" target="Joey Castillo" />
+    <edge source="Queens of the Stone Age" target="David Catching" />
+    <edge source="Queens of the Stone Age" target="Matt Cameron" />
+    <edge source="Queens of the Stone Age" target="John McBain" />
+    <edge source="Queens of the Stone Age" target="Van Conner" />
+    <edge source="Queens of the Stone Age" target="Mario Lalli" />
+    <edge source="Queens of the Stone Age" target="Jason Albertini" />
+    <edge source="Queens of the Stone Age" target="Eva Nahon" />
+    <edge source="Queens of the Stone Age" target="Milo Beenhakker" />
+    <edge source="Queens of the Stone Age" target="Alfredo Hernandez" />
+    <edge source="Queens of the Stone Age" target="Dan Druff" />
+    <edge source="Queens of the Stone Age" target="Mike Johnson (8)" />
+    <edge source="Queens of the Stone Age" target="Gene Trautmann" />
+    <edge source="Queens of the Stone Age" target="Nick Lucero" />
+    <edge source="Queens of the Stone Age" target="Dean Fertita" />
+    <edge source="Queens of the Stone Age" target="Mikey Shuman" />
+    <edge source="Queens of the Stone Age" target="Brendon McNichol" />
+    <edge source="Tenacious D" target="Jack Black (2)" />
+    <edge source="Tenacious D" target="Kyle Gass" />
+    <edge source="Emigrate" target="Olsen Involtini" />
+    <edge source="Emigrate" target="Mikko Sirén" />
+    <edge source="Emigrate" target="Richard Kruspe Bernstein" />
+    <edge source="Emigrate" target="Henka Johansson" />
+    <edge source="Emigrate" target="Arnaud Giroux" />
+    <edge source="Emigrate" target="Margaux Bossieux" />
+    <edge source="Emigrate" target="Joe Letz" />
     <edge source="Emigrate" target="Marilyn Manson">
       <data key="d0">Hypothetical</data>
     </edge>
     <edge source="Emigrate" target="Cardinal Copia">
       <data key="d0">I'm Not Afraid</data>
     </edge>
-    <edge source="Emigrate" target="Jonathan Davis">
-      <data key="d0">Silent So Long</data>
-    </edge>
+    <edge source="Richard Kruspe Bernstein" target="Rammstein" />
+    <edge source="Marilyn Manson" target="Tyler Bates" />
+    <edge source="Marilyn Manson" target="Ginger Fish" />
+    <edge source="Marilyn Manson" target="Scott Putesky" />
+    <edge source="Marilyn Manson" target="Tim Skold" />
+    <edge source="Marilyn Manson" target="Juan Alderete de la Pena" />
+    <edge source="Marilyn Manson" target="John Lowery" />
+    <edge source="Marilyn Manson" target="Sara Lee Lucas" />
+    <edge source="Marilyn Manson" target="Gil Sharone" />
+    <edge source="Marilyn Manson" target="Brad Stewart" />
+    <edge source="Marilyn Manson" target="Brian Warner (2)" />
+    <edge source="Marilyn Manson" target="Timothy Linton" />
+    <edge source="Marilyn Manson" target="Matt Montgomery (2)" />
+    <edge source="Marilyn Manson" target="Stephen Bier" />
+    <edge source="Marilyn Manson" target="Daniel Fox (2)" />
+    <edge source="Marilyn Manson" target="Fred Sablan" />
+    <edge source="Marilyn Manson" target="Reba Meyers" />
+    <edge source="Marilyn Manson" target="Paul Wiley (2)" />
+    <edge source="Marilyn Manson" target="Brandon Pertzborn" />
     <edge source="Marilyn Manson" target="Avril Lavigne">
       <data key="d0">Bad Girl (feat. Marilyn Manson)</data>
     </edge>
@@ -170,18 +713,50 @@
     <edge source="Rob Zombie" target="White Zombie">
       <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
     </edge>
-    <edge source="Rob Zombie" target="Jonathan Davis">
-      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
-    </edge>
-    <edge source="Rob Zombie" target="Charlie Clouser">
-      <data key="d0">Reload</data>
-    </edge>
-    <edge source="White Zombie" target="Jonathan Davis">
-      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
-    </edge>
-    <edge source="Charlie Clouser" target="Type O Negative">
-      <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
-    </edge>
+    <edge source="Five Finger Death Punch" target="Darrell Roberts" />
+    <edge source="Five Finger Death Punch" target="Jeremy Spencer (2)" />
+    <edge source="Five Finger Death Punch" target="Zoltan Bathory" />
+    <edge source="Five Finger Death Punch" target="Ivan Moody (2)" />
+    <edge source="Five Finger Death Punch" target="Jason Hook" />
+    <edge source="Five Finger Death Punch" target="Matt Snell" />
+    <edge source="Five Finger Death Punch" target="Chris Kael" />
+    <edge source="Five Finger Death Punch" target="Caleb Bingham" />
+    <edge source="Five Finger Death Punch" target="Andy James (9)" />
+    <edge source="Five Finger Death Punch" target="Charlie Engen" />
+    <edge source="White Zombie" target="Jay Yuenger" />
+    <edge source="White Zombie" target="John Tempesta" />
+    <edge source="White Zombie" target="Ivan DePrume" />
+    <edge source="White Zombie" target="John Ricci" />
+    <edge source="White Zombie" target="Phil Buerstatte" />
+    <edge source="White Zombie" target="Tim Jeffs" />
+    <edge source="White Zombie" target="Peter Landau" />
+    <edge source="White Zombie" target="Paul &quot;Ena&quot; Kostabi" />
+    <edge source="White Zombie" target="Shauna Reynolds" />
+    <edge source="White Zombie" target="Robert Cummings (2)" />
+    <edge source="White Zombie" target="Tom Guay (2)" />
+    <edge source="Type O Negative" target="Josh Silver" />
+    <edge source="Type O Negative" target="Johnny Kelly" />
+    <edge source="Type O Negative" target="Kenny Hickey" />
+    <edge source="Type O Negative" target="Sal Abruscato" />
+    <edge source="Type O Negative" target="Peter Ratajczyk" />
+    <edge source="Rammstein" target="Christoph Schneider" />
+    <edge source="Rammstein" target="Paul Landers" />
+    <edge source="Rammstein" target="Christian Lorenz" />
+    <edge source="Rammstein" target="Till Lindemann" />
+    <edge source="Rammstein" target="Oliver Riedel" />
+    <edge source="Killing Joke" target="Paul Raven" />
+    <edge source="Killing Joke" target="Greg Hunter" />
+    <edge source="Killing Joke" target="Jaz Coleman" />
+    <edge source="Killing Joke" target="Kris Kylven" />
+    <edge source="Killing Joke" target="Ted Parsons" />
+    <edge source="Killing Joke" target="Paul Ferguson (2)" />
+    <edge source="Killing Joke" target="Geordie Walker" />
+    <edge source="Killing Joke" target="Reza Udhin" />
+    <edge source="Killing Joke" target="Geoff Dugmore" />
+    <edge source="Killing Joke" target="Ben Calvert" />
+    <edge source="Killing Joke" target="Martin Glover" />
+    <edge source="Killing Joke" target="Dave Ball (3)" />
+    <edge source="Killing Joke" target="Kneill Brown" />
     <edge source="Killing Joke" target="Tom Dalgety">
       <data key="d0">Big Buzz - Motorcade Mix</data>
     </edge>
@@ -191,12 +766,26 @@
     <edge source="Tom Dalgety" target="Nick Evans">
       <data key="d0">Big Buzz - Motorcade Mix</data>
     </edge>
+    <edge source="Massive Attack" target="Robert Del Naja" />
+    <edge source="Massive Attack" target="Grant Marshall" />
+    <edge source="Massive Attack" target="Andrew Vowles" />
+    <edge source="Massive Attack" target="Adrian Thaws" />
     <edge source="Massive Attack" target="Elizabeth Fraser">
       <data key="d0">Teardrop</data>
     </edge>
+    <edge source="Elizabeth Fraser" target="Cocteau Twins" />
+    <edge source="Cocteau Twins" target="Robin Guthrie" />
+    <edge source="Cocteau Twins" target="Simon Raymonde" />
+    <edge source="Cocteau Twins" target="Ben Blakeman" />
+    <edge source="Cocteau Twins" target="Will Heggie" />
     <edge source="Cocteau Twins" target="Harold Budd">
       <data key="d0">Sea, Swallow Me</data>
     </edge>
+    <edge source="Spice" target="Emma Bunton" />
+    <edge source="Spice" target="Geri Halliwell" />
+    <edge source="Spice" target="Melanie Chisholm" />
+    <edge source="Spice" target="Melanie Brown" />
+    <edge source="Spice" target="Victoria Adams" />
     <edge source="Spice" target="Sean Paul">
       <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
     </edge>
@@ -227,5 +816,7 @@
     <edge source="Boy Spyce" target="Konshens">
       <data key="d0">Pretty Woman - Long Version</data>
     </edge>
+    <edge source="MCC [Magna Carta Cartel]" target="Arvid Persner" />
+    <edge source="MCC [Magna Carta Cartel]" target="Pär Glendor" />
   </graph>
 </graphml>

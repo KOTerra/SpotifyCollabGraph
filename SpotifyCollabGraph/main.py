@@ -1,5 +1,4 @@
 import time
-
 import matplotlib.pyplot as plt
 import networkx as nx
 import spotipy
@@ -88,13 +87,23 @@ def construct_graph_from_playlist(playlist_id):
             if artist not in G:
                 G.add_node(artist)
 
-    # Add edges between artists
+                # Get the bands of the artist from Discogs and add edges between the artist and their bands
+                band_memberships = get_band_members(artist)
+                if band_memberships:
+                    for member in band_memberships:
+                        if member.name not in G:
+                            G.add_node(member.name)
+                        G.add_edge(artist, member.name)  # Edge between artist and band
+                        print(f"  {member.name} --in--> {artist} ")
+
+    # Add edges between artists (collaborations)
     for track in tracks:
         artists = track['artists']
-
         for i in range(len(artists)):
             for j in range(i + 1, len(artists)):
                 G.add_edge(artists[i], artists[j], song=track['name'])
+                print(f"{artists[i]} --with--> {artists[j]}")
+
     return G
 
 
