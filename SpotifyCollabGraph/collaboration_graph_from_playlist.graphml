@@ -55,6 +55,22 @@
     <node id="Cardinal Copia" />
     <node id="Type O Negative" />
     <node id="Rammstein" />
+    <node id="Killing Joke" />
+    <node id="Tom Dalgety" />
+    <node id="Nick Evans" />
+    <node id="Massive Attack" />
+    <node id="Elizabeth Fraser" />
+    <node id="Cocteau Twins" />
+    <node id="Harold Budd" />
+    <node id="Jeff Buckley" />
+    <node id="Westside Gunn" />
+    <node id="Spice" />
+    <node id="Sean Paul" />
+    <node id="Shaggy" />
+    <node id="Costi" />
+    <node id="Boy Spyce" />
+    <node id="Konshens" />
+    <node id="Sting" />
     <edge source="Ozzy Osbourne" target="Lemmy">
       <data key="d0">Hellraiser - 30th Anniversary Edition</data>
     </edge>
@@ -165,6 +181,51 @@
     </edge>
     <edge source="Charlie Clouser" target="Type O Negative">
       <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
+    </edge>
+    <edge source="Killing Joke" target="Tom Dalgety">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+    </edge>
+    <edge source="Killing Joke" target="Nick Evans">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+    </edge>
+    <edge source="Tom Dalgety" target="Nick Evans">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+    </edge>
+    <edge source="Massive Attack" target="Elizabeth Fraser">
+      <data key="d0">Teardrop</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Harold Budd">
+      <data key="d0">Sea, Swallow Me</data>
+    </edge>
+    <edge source="Spice" target="Sean Paul">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+    </edge>
+    <edge source="Spice" target="Shaggy">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+    </edge>
+    <edge source="Sean Paul" target="Shaggy">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+    </edge>
+    <edge source="Shaggy" target="Costi">
+      <data key="d0">Pretty Woman - Long Version</data>
+    </edge>
+    <edge source="Shaggy" target="Boy Spyce">
+      <data key="d0">Pretty Woman - Long Version</data>
+    </edge>
+    <edge source="Shaggy" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
+    </edge>
+    <edge source="Shaggy" target="Sting">
+      <data key="d0">Don't Make Me Wait (with Shaggy)</data>
+    </edge>
+    <edge source="Costi" target="Boy Spyce">
+      <data key="d0">Pretty Woman - Long Version</data>
+    </edge>
+    <edge source="Costi" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
+    </edge>
+    <edge source="Boy Spyce" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
     </edge>
   </graph>
 </graphml>
