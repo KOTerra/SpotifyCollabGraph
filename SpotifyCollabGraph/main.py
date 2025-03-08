@@ -114,16 +114,70 @@ def construct_graph_from_playlist(playlist_id, G):
                     for member in band_memberships:
                         if member.name not in G:
                             G.add_node(member.name)
-                        G.add_edge(artist, member.name)
-                        print(f"  {member.name} --in--> {artist} ")
+                        G.add_edge(artist, member.name, type="band_member")  # Mark band edges
+                        print(f"  {member.name} --in--> {artist} (band member)")
 
     for track in tracks:
         artists = track['artists']
         for i in range(len(artists)):
             for j in range(i + 1, len(artists)):
                 if not G.has_edge(artists[i], artists[j]):
-                    G.add_edge(artists[i], artists[j], song=track['name'])
-                    print(f"{artists[i]} --with--> {artists[j]}")
+                    G.add_edge(artists[i], artists[j], song=track['name'], type="collab")
+                    print(f"{artists[i]} --with--> {artists[j]} (collaboration)")
+
+    return G
+
+
+def clean_removed_artists(G, playlist_tracks):
+    """Removes artists and bands that are no longer in the playlist, while preserving valid connections."""
+
+    playlist_artists = {artist for track in playlist_tracks for artist in track["artists"]}
+
+    graph_artists = set(G.nodes)
+
+    band_members = {}  # band -> set(members)
+    member_bands = {}  # member -> set(bands)
+
+    for artist in graph_artists:
+        for neighbor, data in G[artist].items():
+            if data.get("type") == "band_member":
+                band_members.setdefault(artist, set()).add(neighbor)
+                member_bands.setdefault(neighbor, set()).add(artist)
+
+    artist_has_playlist_collab = {artist: False for artist in graph_artists}
+
+    for artist in graph_artists:
+        for neighbor, data in G[artist].items():
+            if data.get("type") == "collab" and neighbor in playlist_artists:
+                artist_has_playlist_collab[artist] = True
+
+    artists_with_solo_songs = set()
+    for track in playlist_tracks:
+        if len(track["artists"]) == 1:
+            artists_with_solo_songs.add(track["artists"][0])
+
+    bands_to_keep = set()
+    for band, members in band_members.items():
+        if (
+                band in playlist_artists
+                or artist_has_playlist_collab[band]
+                or any(member in artists_with_solo_songs for member in members)
+                or any(artist_has_playlist_collab[member] for member in members)
+        ):
+            bands_to_keep.add(band)
+
+    artists_to_keep = set(playlist_artists) | artists_with_solo_songs
+
+    for artist in graph_artists:
+        if artist in member_bands and member_bands[artist] & bands_to_keep:
+            artists_to_keep.add(artist)
+
+        if artist_has_playlist_collab[artist]:
+            artists_to_keep.add(artist)
+
+    for artist in list(graph_artists - artists_to_keep):
+        print(f"Removing {artist} (no playlist songs, no playlist-linked collabs, no band-linked collabs)")
+        G.remove_node(artist)
 
     return G
 
@@ -146,6 +200,8 @@ if __name__ == '__main__':
     G = load_graph_from_file(GRAPH_FILE)
 
     G = construct_graph_from_playlist(playlist_id, G)
+
+    G = clean_removed_artists(G, get_playlist_tracks(playlist_id))
 
     export_graph(G, GRAPH_FILE)
 

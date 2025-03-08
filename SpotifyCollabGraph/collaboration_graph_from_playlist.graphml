@@ -352,6 +352,8 @@
     <node id="MCC [Magna Carta Cartel]" />
     <node id="Arvid Persner" />
     <node id="Pär Glendor" />
+    <node id="Novarupta" />
+    <node id="Alex Stjernfeldt" />
     <edge source="Ozzy Osbourne" target="Lemmy">
       <data key="d0">Hellraiser - 30th Anniversary Edition</data>
       <data key="d1">collab</data>
@@ -1046,6 +1048,10 @@
     <edge source="Martin Persner" target="MCC [Magna Carta Cartel]">
       <data key="d1">band_member</data>
     </edge>
+    <edge source="Martin Persner" target="Novarupta">
+      <data key="d0">Trieste</data>
+      <data key="d1">collab</data>
+    </edge>
     <edge source="Simon Söderberg" target="MCC [Magna Carta Cartel]">
       <data key="d1">band_member</data>
     </edge>
@@ -1491,6 +1497,9 @@
       <data key="d1">band_member</data>
     </edge>
     <edge source="MCC [Magna Carta Cartel]" target="Pär Glendor">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Novarupta" target="Alex Stjernfeldt">
       <data key="d1">band_member</data>
     </edge>
   </graph>
