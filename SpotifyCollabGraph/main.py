@@ -194,6 +194,7 @@ def visualize_graph(G):
     plt.show()
 
 
+# TODO should store in a graph database and mark collab edges with all collabs between artists
 if __name__ == '__main__':
     discogs_test()
 
