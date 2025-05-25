@@ -2,6 +2,8 @@ from neo4j import GraphDatabase
 import xml.etree.ElementTree as ET
 import time
 
+BATCH_SIZE = 500
+
 
 class GraphMLImporter:
     def __init__(self, uri, user, password, database="neo4j"):
@@ -14,17 +16,26 @@ class GraphMLImporter:
     def import_graphml(self, file_path):
         tree = ET.parse(file_path)
         root = tree.getroot()
-
         ns = {'graphml': 'http://graphml.graphdrawing.org/xmlns'}
 
         with self.driver.session(database=self.database) as session:
-            # Insert nodes
+            print("🧨 Clearing existing database...")
+            session.run("MATCH (n) DETACH DELETE n")
+
+            print("📦 Inserting nodes...")
+            node_batch = []
             for node in root.findall(".//graphml:node", ns):
                 node_id = node.get("id")
-                session.write_transaction(self._create_artist, node_id)
-                print(f"Inserted node: {node_id}")
+                node_batch.append(node_id)
+                if len(node_batch) >= BATCH_SIZE:
+                    self._insert_nodes_batch(session, node_batch)
+                    node_batch = []
+            if node_batch:
+                self._insert_nodes_batch(session, node_batch)
 
-            # Insert edges
+            print("🔗 Inserting relationships...")
+            collab_batch = []
+            member_batch = []
             for edge in root.findall(".//graphml:edge", ns):
                 source = edge.get("source")
                 target = edge.get("target")
@@ -33,35 +44,45 @@ class GraphMLImporter:
                 rel_type = edge_data.get("d1", "unknown")
 
                 if rel_type == "collab":
-                    session.write_transaction(self._create_collaboration, source, target, edge_data)
-                    print(f"Inserted COLLABORATED_WITH: {source} -> {target} ({edge_data.get('d0', '')})")
+                    collab_batch.append((source, target, edge_data.get("d0", "")))
+                    if len(collab_batch) >= BATCH_SIZE:
+                        self._insert_collabs_batch(session, collab_batch)
+                        collab_batch = []
                 elif rel_type == "band_member":
-                    session.write_transaction(self._create_band_membership, target, source)
-                    print(f"Inserted MEMBER_OF: {target} -> {source}")
-                else:
-                    print(f"Skipped edge: {source} -> {target} with unknown type '{rel_type}'")
+                    member_batch.append((target, source))  # member -> band
+                    if len(member_batch) >= BATCH_SIZE:
+                        self._insert_members_batch(session, member_batch)
+                        member_batch = []
 
-    @staticmethod
-    def _create_artist(tx, name):
-        tx.run("MERGE (:Artist {name: $name})", name=name)
+            if collab_batch:
+                self._insert_collabs_batch(session, collab_batch)
+            if member_batch:
+                self._insert_members_batch(session, member_batch)
 
-    @staticmethod
-    def _create_collaboration(tx, source, target, data):
+    def _insert_nodes_batch(self, session, node_ids):
+        query = "UNWIND $nodes AS name MERGE (:Artist {name: name})"
+        session.run(query, nodes=node_ids)
+        print(f"✅ Inserted {len(node_ids)} artists")
+
+    def _insert_collabs_batch(self, session, collabs):
         query = """
-        MATCH (a:Artist {name: $source})
-        MATCH (b:Artist {name: $target})
-        MERGE (a)-[r:COLLABORATED_WITH {title: $title}]->(b)
+        UNWIND $collabs AS collab
+        MATCH (a:Artist {name: collab.source})
+        MATCH (b:Artist {name: collab.target})
+        MERGE (a)-[:COLLABORATED_WITH {title: collab.title}]->(b)
         """
-        tx.run(query, source=source, target=target, title=data.get("d0", ""))
+        session.run(query, collabs=[{"source": s, "target": t, "title": title} for s, t, title in collabs])
+        print(f"🔁 Inserted {len(collabs)} collaborations")
 
-    @staticmethod
-    def _create_band_membership(tx, member, band):
+    def _insert_members_batch(self, session, members):
         query = """
-        MATCH (a:Artist {name: $member})
-        MATCH (b:Artist {name: $band})
+        UNWIND $members AS rel
+        MATCH (a:Artist {name: rel.member})
+        MATCH (b:Artist {name: rel.band})
         MERGE (a)-[:MEMBER_OF]->(b)
         """
-        tx.run(query, member=member, band=band)
+        session.run(query, members=[{"member": m, "band": b} for m, b in members])
+        print(f"👥 Inserted {len(members)} member relationships")
 
 
 # Usage
@@ -77,4 +98,4 @@ if __name__ == "__main__":
     importer.import_graphml(file_path)
     importer.close()
 
-    print(f"Imported {time.time() - start_time} seconds")
+    print(f"🏁 Import finished in {time.time() - start_time:.2f} seconds")
