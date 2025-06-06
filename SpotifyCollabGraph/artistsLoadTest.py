@@ -89,7 +89,7 @@ class GraphMLImporter:
 if __name__ == "__main__":
     start_time = time.time()
 
-    uri = "bolt://192.168.1.128:7687"
+    uri = "bolt://100.71.164.72:7687"
     user = "neo4j"
     password = "Mihais123"
     file_path = "collaboration_graph_from_playlist.graphml"

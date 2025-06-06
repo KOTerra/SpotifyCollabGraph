@@ -1,0 +1,7 @@
+matplotlib
+networkx
+spotipy
+discogs-client
+requests
+neo4j
+python-dotenv

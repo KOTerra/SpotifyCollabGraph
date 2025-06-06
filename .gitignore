@@ -1,0 +1,5 @@
+.env
+venv/
+SpotifyCollabGraph/connectTest.py
+__pycache__/
+*.pyc
