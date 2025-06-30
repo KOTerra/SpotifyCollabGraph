@@ -1,21 +1,26 @@
 import time
 import os
 import matplotlib.pyplot as plt
+from dotenv import load_dotenv
+from pathlib import Path
 import networkx as nx
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import discogs_client
 import requests
 
+env_path = Path('../') / '.env'
+load_dotenv(dotenv_path=env_path)
+
 # API tokens
-client_credentials_manager = SpotifyClientCredentials(client_id='9a324ce2de004464916503c99da4c2f2',
-                                                      client_secret='6855817946bf4204b187537c4c47dd70')
+client_credentials_manager = SpotifyClientCredentials(client_id=os.getenv("SPOTIFY_CLIENT_ID"),
+                                                      client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"))
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-discogs = discogs_client.Client('ExampleApplication/0.1', user_token='caNEgSDjmfRnyvXcZKRUfhLgSZcZnvgsYJdzCGLM')
+discogs = discogs_client.Client('ExampleApplication/0.1', user_token=os.getenv("DISCOGS_USER_TOKEN"))
 
 playlist_id = '1ssL2ME8jwjHRVKf7Cnbur'
 
-GRAPH_FILE = 'collaboration_graph_from_playlist.graphml'
+GRAPH_FILE = os.getenv("GRAPH_FILE")
 
 artist_bands = {}
 

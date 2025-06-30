@@ -1,12 +1,19 @@
+import os
+
 from neo4j import GraphDatabase
 import xml.etree.ElementTree as ET
+from dotenv import load_dotenv
+from pathlib import Path
 import time
+
+env_path = Path('../') / '.env'
+load_dotenv(dotenv_path=env_path)
 
 BATCH_SIZE = 500
 
 
 class GraphMLImporter:
-    def __init__(self, uri, user, password, database="neo4j"):
+    def __init__(self, uri, user, password, database=os.getenv("NEO4J_DATABASE")):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         self.database = database
 
@@ -89,10 +96,10 @@ class GraphMLImporter:
 if __name__ == "__main__":
     start_time = time.time()
 
-    uri = "bolt://100.71.164.72:7687"
-    user = "neo4j"
-    password = "Mihais123"
-    file_path = "collaboration_graph_from_playlist.graphml"
+    uri = os.getenv("NEO4J_URI_BOLT")
+    user = os.getenv("NEO4J_USERNAME")
+    password = os.getenv("NEO4J_PASSWORD")
+    file_path = os.getenv("GRAPH_FILE")
 
     importer = GraphMLImporter(uri, user, password)
     importer.import_graphml(file_path)
