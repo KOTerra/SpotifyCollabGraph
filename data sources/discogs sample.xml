@@ -1,0 +1,113 @@
+<artist>
+	<id>1361680</id>
+	<name>Martin Persner</name>
+	<realname>Martin Persner</realname>
+	<profile>Swedish musician. </profile>
+	<data_quality>Needs Vote</data_quality>
+	<namevariations>
+		<name>M</name>
+		<name>M Persner</name>
+		<name>M. Persner</name>
+		<name>Martin</name>
+	</namevariations>
+	<groups>
+		<name id="1361686">Roswell (7)</name>
+		<name id="1841953">Tid (2)</name>
+		<name id="1841958">Magna Carta Cartel</name>
+		<name id="1949975">Subvision (2)</name>
+		<name id="1966143">Ghost (32)</name>
+	</groups>
+</artist>
+<artist>
+	<id>1361681</id>
+	<name>Stefan Hedström</name>
+	<data_quality>Needs Vote</data_quality>
+	<namevariations>
+		<name>Deathgrowler Of Death</name>
+	</namevariations>
+	<groups>
+		<name id="3389261">Prove my point</name>
+		<name id="8385717">Hour Of The VVolf</name>
+	</groups>
+</artist>
+<artist>
+	<id>1361682</id>
+	<name>Martin Arwidson</name>
+	<data_quality>Needs Major Changes</data_quality>
+</artist>
+<artist>
+	<id>1361683</id>
+	<name>Björn Nilsson (3)</name>
+	<profile>Swedish musician. </profile>
+	<data_quality>Needs Vote</data_quality>
+	<namevariations>
+		<name>B. Nielsen</name>
+		<name>Björn</name>
+	</namevariations>
+	<groups>
+		<name id="1361686">Roswell (7)</name>
+		<name id="1841953">Tid (2)</name>
+	</groups>
+</artist>
+<artist>
+	<id>1361684</id>
+	<name>M Khaos</name>
+	<data_quality>Needs Major Changes</data_quality>
+	<aliases>
+		<name id="660137">Martin Hallin</name>
+	</aliases>
+</artist>
+<artist>
+	<id>1361685</id>
+	<name>Goran Bartol</name>
+	<profile>Swedish drummer</profile>
+	<data_quality>Needs Vote</data_quality>
+	<namevariations>
+		<name>Goran</name>
+		<name>Göran</name>
+	</namevariations>
+	<groups>
+		<name id="321837">Outlast</name>
+		<name id="1476950">Bonds Of Trust</name>
+		<name id="2117185">Stay Hungry</name>
+		<name id="2963097">Lions Den (4)</name>
+		<name id="3065953">The Romance (5)</name>
+		<name id="8502795">NOWHERES</name>
+	</groups>
+</artist>
+<artist>
+	<id>1361686</id>
+	<name>Roswell (7)</name>
+	<profile>Metal/hardcore band from Linköping, Sweden. Active between 1998-2005. After breakup, the members went on to form [a1841953].</profile>
+	<data_quality>Needs Vote</data_quality>
+	<members>
+		<name id="699458">Claudio Marino</name>
+		<name id="1239935">Christian Eriksson (2)</name>
+		<name id="1361680">Martin Persner</name>
+		<name id="1361683">Björn Nilsson (3)</name>
+		<name id="1361687">Simon Söderberg</name>
+	</members>
+</artist>
+<artist>
+	<id>1361687</id>
+	<name>Simon Söderberg</name>
+	<realname>Simon Söderberg</realname>
+	<data_quality>Needs Vote</data_quality>
+	<namevariations>
+		<name>S Söderberg</name>
+		<name>S. Söderberg</name>
+		<name>Simon</name>
+		<name>Simon Soderberg</name>
+	</namevariations>
+	<aliases>
+		<name id="1333869">Alpha (15)</name>
+	</aliases>
+	<groups>
+		<name id="1361686">Roswell (7)</name>
+		<name id="1841953">Tid (2)</name>
+		<name id="1841958">Magna Carta Cartel</name>
+		<name id="1949975">Subvision (2)</name>
+		<name id="1966143">Ghost (32)</name>
+		<name id="5010833">Circle Six (2)</name>
+	</groups>
+</artist>

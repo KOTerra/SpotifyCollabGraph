@@ -96,7 +96,7 @@ class GraphMLImporter:
 if __name__ == "__main__":
     start_time = time.time()
 
-    uri = os.getenv("NEO4J_URI_BOLT")
+    uri = os.getenv("NEO4J_URI_BOLT_MAGNACLOUDA")
     user = os.getenv("NEO4J_USERNAME")
     password = os.getenv("NEO4J_PASSWORD")
     file_path = os.getenv("GRAPH_FILE")
