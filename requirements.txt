@@ -5,3 +5,6 @@ discogs-client
 requests
 neo4j
 python-dotenv
+qdrant_client
+elasticsearch
+sentence_transformers
