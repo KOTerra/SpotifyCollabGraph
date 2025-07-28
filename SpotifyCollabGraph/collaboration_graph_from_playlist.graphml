@@ -1,1699 +1,1941 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="type" attr.type="string"/>
-<key id="d0" for="edge" attr.name="song" attr.type="string"/>
-<graph edgedefault="undirected"><node id="Ozzy Osbourne"/>
-<node id="Lemmy"/>
-<node id="Motörhead"/>
-<node id="Larry Wallis"/>
-<node id="Eddie Clarke"/>
-<node id="Pete Gill"/>
-<node id="Brian Robertson"/>
-<node id="Phil Campbell"/>
-<node id="Phil Taylor"/>
-<node id="Lucas Fox"/>
-<node id="Michael Burston"/>
-<node id="Ian Fraser Kilmister"/>
-<node id="Micael Kiriakos Delaoglou"/>
-<node id="Metallica"/>
-<node id="Kirk Hammett"/>
-<node id="Lars Ulrich"/>
-<node id="Dave Mustaine"/>
-<node id="James Hetfield"/>
-<node id="Cliff Burton"/>
-<node id="Jason Newsted"/>
-<node id="Robert Trujillo"/>
-<node id="Ron McGovney"/>
-<node id="Probot"/>
-<node id="Dave Grohl"/>
-<node id="Matt Sweeney"/>
-<node id="Adam Kasper"/>
-<node id="Nirvana"/>
-<node id="Chad Channing"/>
-<node id="Dan Peters"/>
-<node id="Dale Crover"/>
-<node id="Kurt Cobain"/>
-<node id="Krist Novoselic"/>
-<node id="Jason Everman"/>
-<node id="Aaron Burckhard"/>
-<node id="Dave Foster (14)"/>
-<node id="Courtney Love"/>
-<node id="Michael Stipe"/>
-<node id="Jackshit"/>
-<node id="Steve Youth"/>
-<node id="Dave Fry"/>
-<node id="Ben Wa (2)"/>
-<node id="R.E.M."/>
-<node id="Mike Mills"/>
-<node id="Peter Buck"/>
-<node id="Bill Berry (2)"/>
-<node id="Bertis Downs IV"/>
-<node id="Jefferson Holt"/>
-<node id="Hole"/>
-<node id="Melissa Auf Der Maur"/>
-<node id="Eric Erlandson"/>
-<node id="Jill Emery"/>
-<node id="Leslie Hardy"/>
-<node id="Patty Schemel"/>
-<node id="Samantha Maloney"/>
-<node id="Kristen Pfaff"/>
-<node id="Caroline Rue"/>
-<node id="Micko Larkin"/>
-<node id="Shawn Dailey"/>
-<node id="Stuart Fisher (2)"/>
-<node id="Melissa Auf der Maur"/>
-<node id="The Smashing Pumpkins"/>
-<node id="Billy Corgan"/>
-<node id="James Iha"/>
-<node id="Jimmy Chamberlin"/>
-<node id="Ginger Reyes"/>
-<node id="D'Arcy Wretzky"/>
-<node id="Nicole Fiorentino"/>
-<node id="Jeff Schroeder"/>
-<node id="Mike Byrne (2)"/>
-<node id="Nine Inch Nails"/>
-<node id="Chris Vrenna"/>
-<node id="Martin Atkins"/>
-<node id="Joshua Eustis"/>
-<node id="Trent Reznor"/>
-<node id="Charlie Clouser"/>
-<node id="Danny Lohner"/>
-<node id="Jerome Dillon"/>
-<node id="Adrian Belew"/>
-<node id="Lisa Fischer"/>
-<node id="Richard Patrick"/>
-<node id="Sharlotte Gibson"/>
-<node id="Pino Palladino"/>
-<node id="Robin Finck"/>
-<node id="Atticus Ross"/>
-<node id="Kevin McMahon"/>
-<node id="Josh Freese"/>
-<node id="Justin Meldal-Johnsen"/>
-<node id="Eric Avery"/>
-<node id="Jeordie White"/>
-<node id="Alex Carapetis"/>
-<node id="Jeff Ward"/>
-<node id="James Wooley"/>
-<node id="Aaron North"/>
-<node id="Alessandro Cortini"/>
-<node id="Nick Rushe"/>
-<node id="Lee Mars"/>
-<node id="Ilan Rubin"/>
-<node id="Gary Talpas"/>
-<node id="Rich Fownes"/>
-<node id="Ron Musarra"/>
-<node id="David Haymes"/>
-<node id="A Perfect Circle"/>
-<node id="Troy Van Leeuwen"/>
-<node id="Paz Lenchantin"/>
-<node id="Maynard James Keenan"/>
-<node id="Billy Howerdel"/>
-<node id="Tim &quot;Herb&quot; Alexander"/>
-<node id="Jeff Friedl"/>
-<node id="Matt Mcjunkins"/>
-<node id="Renholdër"/>
-<node id="Wes Borland"/>
-<node id="Limp Bizkit"/>
-<node id="Fred Durst"/>
-<node id="John Otto"/>
-<node id="Terry Balsamo"/>
-<node id="Leor Dimant"/>
-<node id="Sammy Siegler"/>
-<node id="Sam Rivers (2)"/>
-<node id="Mike Smith (15)"/>
-<node id="Rob Waters (2)"/>
-<node id="Korn"/>
-<node id="Jonathan Davis"/>
-<node id="David Silveria"/>
-<node id="Ray Luzier"/>
-<node id="Brian Welch"/>
-<node id="James Shaffer"/>
-<node id="Reginald Arvizu"/>
-<node id="Ice Cube"/>
-<node id="Chino Moreno"/>
-<node id="Deftones"/>
-<node id="Sergio Vega"/>
-<node id="Frank Delgado"/>
-<node id="Abe Cunningham"/>
-<node id="Chi Cheng"/>
-<node id="Stephen Carpenter"/>
-<node id="Dominic Garcia"/>
-<node id="John Taylor (31)"/>
-<node id="✝✝✝ (Crosses)"/>
-<node id="Skrillex"/>
-<node id="Kill The Noise"/>
-<node id="Corey Taylor"/>
-<node id="Slipknot"/>
-<node id="Joey Jordison"/>
-<node id="James Root"/>
-<node id="Sid Wilson"/>
-<node id="Chris Fehn"/>
-<node id="Paul Gray (3)"/>
-<node id="Shawn Crahan"/>
-<node id="Craig Jones (2)"/>
-<node id="Mick Thomson"/>
-<node id="Josh Brainard"/>
-<node id="Michael Pfaff"/>
-<node id="Donnie Steele"/>
-<node id="Jay Weinberg"/>
-<node id="Brandon Darner"/>
-<node id="Eloy Casagrande"/>
-<node id="Greg Welts"/>
-<node id="Alessandro Venturella"/>
-<node id="Kun P. Nong"/>
-<node id="Andy Rouw"/>
-<node id="deadmau5"/>
-<node id="Rob Swire"/>
-<node id="The Prodigy"/>
-<node id="Liam Howlett"/>
-<node id="Keith Flint"/>
-<node id="Leeroy Thornhill"/>
-<node id="Keith Palmer"/>
-<node id="Pendulum"/>
-<node id="Jakes"/>
-<node id="Paul Kodish"/>
-<node id="El Hornet"/>
-<node id="Peredur Ap Gwynedd"/>
-<node id="Gareth McGrillen"/>
-<node id="Paul Harding (3)"/>
-<node id="KJ Sawka"/>
-<node id="Benjamin Mount"/>
-<node id="Matt White (3)"/>
-<node id="In Flames"/>
-<node id="Jesper Strömblad"/>
-<node id="Anders Fridén"/>
-<node id="Daniel Erlandsson"/>
-<node id="Anders Iwers"/>
-<node id="Johan Larsson"/>
-<node id="Glenn Ljungström"/>
-<node id="Björn Gelotte"/>
-<node id="Carl Näslund"/>
-<node id="Daniel Svensson"/>
-<node id="Peter Iwers"/>
-<node id="Chris Broderick"/>
-<node id="Niclas Engelin"/>
-<node id="Joe Rickard"/>
-<node id="Tanner Wayne"/>
-<node id="Bryce Paul Newman"/>
-<node id="Niels Nielsen"/>
-<node id="Ghost"/>
-<node id="Martin Persner"/>
-<node id="Simon Söderberg"/>
-<node id="Tobias Forge"/>
-<node id="Rikard Ottosson"/>
-<node id="Aksel Holmgren"/>
-<node id="Gustaf Lindström"/>
-<node id="Megan X Thomas"/>
-<node id="Foo Fighters"/>
-<node id="Taylor Hawkins"/>
-<node id="Rami Jaffee"/>
-<node id="Nate Mendel"/>
-<node id="William Goldsmith"/>
-<node id="Franz Stahl"/>
-<node id="Chris Shiflett"/>
-<node id="Georg Ruthenberg"/>
-<node id="Queens of the Stone Age"/>
-<node id="Mark Lanegan"/>
-<node id="Josh Homme"/>
-<node id="Alain Johannes"/>
-<node id="Chris Goss"/>
-<node id="Nick Oliveri"/>
-<node id="Jon Theodore"/>
-<node id="Natasha Shneider"/>
-<node id="Joey Castillo"/>
-<node id="David Catching"/>
-<node id="Matt Cameron"/>
-<node id="John McBain"/>
-<node id="Van Conner"/>
-<node id="Mario Lalli"/>
-<node id="Jason Albertini"/>
-<node id="Eva Nahon"/>
-<node id="Milo Beenhakker"/>
-<node id="Alfredo Hernandez"/>
-<node id="Dan Druff"/>
-<node id="Mike Johnson (8)"/>
-<node id="Gene Trautmann"/>
-<node id="Nick Lucero"/>
-<node id="Dean Fertita"/>
-<node id="Mikey Shuman"/>
-<node id="Brendon McNichol"/>
-<node id="Jack Black"/>
-<node id="Tenacious D"/>
-<node id="Jack Black (2)"/>
-<node id="Kyle Gass"/>
-<node id="Emigrate"/>
-<node id="Olsen Involtini"/>
-<node id="Mikko Sirén"/>
-<node id="Richard Kruspe Bernstein"/>
-<node id="Henka Johansson"/>
-<node id="Arnaud Giroux"/>
-<node id="Margaux Bossieux"/>
-<node id="Joe Letz"/>
-<node id="Marilyn Manson"/>
-<node id="Tyler Bates"/>
-<node id="Ginger Fish"/>
-<node id="Scott Putesky"/>
-<node id="Tim Skold"/>
-<node id="Juan Alderete de la Pena"/>
-<node id="John Lowery"/>
-<node id="Sara Lee Lucas"/>
-<node id="Gil Sharone"/>
-<node id="Brad Stewart"/>
-<node id="Brian Warner (2)"/>
-<node id="Timothy Linton"/>
-<node id="Matt Montgomery (2)"/>
-<node id="Stephen Bier"/>
-<node id="Daniel Fox (2)"/>
-<node id="Fred Sablan"/>
-<node id="Reba Meyers"/>
-<node id="Paul Wiley (2)"/>
-<node id="Brandon Pertzborn"/>
-<node id="Avril Lavigne"/>
-<node id="Rob Zombie"/>
-<node id="Five Finger Death Punch"/>
-<node id="Darrell Roberts"/>
-<node id="Jeremy Spencer (2)"/>
-<node id="Zoltan Bathory"/>
-<node id="Ivan Moody (2)"/>
-<node id="Jason Hook"/>
-<node id="Matt Snell"/>
-<node id="Chris Kael"/>
-<node id="Caleb Bingham"/>
-<node id="Andy James (9)"/>
-<node id="Charlie Engen"/>
-<node id="White Zombie"/>
-<node id="Jay Yuenger"/>
-<node id="John Tempesta"/>
-<node id="Ivan DePrume"/>
-<node id="John Ricci"/>
-<node id="Phil Buerstatte"/>
-<node id="Tim Jeffs"/>
-<node id="Peter Landau"/>
-<node id="Paul &quot;Ena&quot; Kostabi"/>
-<node id="Shauna Reynolds"/>
-<node id="Robert Cummings (2)"/>
-<node id="Tom Guay (2)"/>
-<node id="Cardinal Copia"/>
-<node id="Type O Negative"/>
-<node id="Josh Silver"/>
-<node id="Johnny Kelly"/>
-<node id="Kenny Hickey"/>
-<node id="Sal Abruscato"/>
-<node id="Peter Ratajczyk"/>
-<node id="Rammstein"/>
-<node id="Christoph Schneider"/>
-<node id="Paul Landers"/>
-<node id="Christian Lorenz"/>
-<node id="Till Lindemann"/>
-<node id="Oliver Riedel"/>
-<node id="Killing Joke"/>
-<node id="Paul Raven"/>
-<node id="Greg Hunter"/>
-<node id="Jaz Coleman"/>
-<node id="Kris Kylven"/>
-<node id="Ted Parsons"/>
-<node id="Paul Ferguson (2)"/>
-<node id="Geordie Walker"/>
-<node id="Reza Udhin"/>
-<node id="Geoff Dugmore"/>
-<node id="Ben Calvert"/>
-<node id="Martin Glover"/>
-<node id="Dave Ball (3)"/>
-<node id="Kneill Brown"/>
-<node id="Tom Dalgety"/>
-<node id="Nick Evans"/>
-<node id="Massive Attack"/>
-<node id="Robert Del Naja"/>
-<node id="Grant Marshall"/>
-<node id="Andrew Vowles"/>
-<node id="Adrian Thaws"/>
-<node id="Elizabeth Fraser"/>
-<node id="Cocteau Twins"/>
-<node id="Robin Guthrie"/>
-<node id="Simon Raymonde"/>
-<node id="Ben Blakeman"/>
-<node id="Will Heggie"/>
-<node id="Harold Budd"/>
-<node id="Jeff Buckley"/>
-<node id="Westside Gunn"/>
-<node id="Spice"/>
-<node id="Emma Bunton"/>
-<node id="Geri Halliwell"/>
-<node id="Melanie Chisholm"/>
-<node id="Melanie Brown"/>
-<node id="Victoria Adams"/>
-<node id="Sean Paul"/>
-<node id="Shaggy"/>
-<node id="Costi"/>
-<node id="Boy Spyce"/>
-<node id="Konshens"/>
-<node id="Sting"/>
-<node id="MCC [Magna Carta Cartel]"/>
-<node id="Arvid Persner"/>
-<node id="Pär Glendor"/>
-<node id="Novarupta"/>
-<node id="Alex Stjernfeldt"/>
-<node id="Steve Aoki"/>
-<node id="The Bloody Beetroots"/>
-<node id="Simone Cogo"/>
-<node id="Refused"/>
-<node id="Mattias Bärjed"/>
-<node id="David Sandström"/>
-<node id="Dennis Lyxzén"/>
-<node id="Magnus Björklund"/>
-<node id="Kristofer Steen"/>
-<node id="Jon Brännström"/>
-<node id="Ulf Nyberg"/>
-<node id="Pär Hansson"/>
-<node id="Magnus Höggren"/>
-<node id="Henrik Jansson (2)"/>
-<node id="Jonas Lidgren"/>
-<node id="Tom Morello"/>
-<node id="Ana Tijoux"/>
-<node id="Jet"/>
-<node id="Mark Wilson (3)"/>
-<node id="Nic Cester"/>
-<node id="Cameron Muncey"/>
-<node id="Chris Cester"/>
-<node id="Doug Armstrong (2)"/>
-<node id="SAMURAI"/>
-<node id="Yujin Harada"/>
-<node id="Tetsu Yamauchi"/>
-<node id="Sabu Toyozumi"/>
-<node id="Mike Walker (4)"/>
-<node id="Joe Dunnet"/>
-<node id="Hiro Izumi"/>
-<node id="John Redfern (2)"/>
-<node id="Goro Yamamoto"/>
-<node id="Kunimitsu Fuyuume"/>
-<node id="mgk"/>
-<node id="YUNGBLUD"/>
-<node id="Travis Barker"/>
-<node id="Bring Me The Horizon"/>
-<node id="Jona Weinhofen"/>
-<node id="Matthew Nicholls (2)"/>
-<node id="Curtis Ward"/>
-<node id="Oliver Sykes"/>
-<node id="Lee Malia"/>
-<node id="Matt Kean"/>
-<node id="Jordan Fish (2)"/>
-<node id="Ed Sheeran"/>
-<edge source="Ozzy Osbourne" target="Lemmy">
-  <data key="d0">Hellraiser - 30th Anniversary Edition</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Ozzy Osbourne" target="Motörhead">
-  <data key="d0">Hellraiser - 30th Anniversary Edition</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Ozzy Osbourne" target="Rob Zombie">
-  <data key="d0">Iron Head</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Lemmy" target="Motörhead">
-  <data key="d0">Hellraiser - 30th Anniversary Edition</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Lemmy" target="Probot">
-  <data key="d0">Shake Your Blood (feat. Lemmy Kilmister)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Lemmy" target="Emigrate">
-  <data key="d0">Rock City</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Motörhead" target="Larry Wallis">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Eddie Clarke">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Pete Gill">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Brian Robertson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Phil Campbell">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Phil Taylor">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Lucas Fox">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Michael Burston">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Ian Fraser Kilmister">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Motörhead" target="Micael Kiriakos Delaoglou">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Kirk Hammett">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Lars Ulrich">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Dave Mustaine">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="James Hetfield">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Cliff Burton">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Jason Newsted">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Robert Trujillo">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Metallica" target="Ron McGovney">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Probot" target="Dave Grohl">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Probot" target="Matt Sweeney">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Probot" target="Adam Kasper">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Probot" target="Jack Black">
-  <data key="d0">I Am the Warlock (feat. Jack Black)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Dave Grohl" target="Nirvana">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Dave Grohl" target="Foo Fighters">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Dave Grohl" target="Queens of the Stone Age">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Dave Grohl" target="Killing Joke">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Dave Grohl" target="Josh Homme">
-  <data key="d0">Mantra</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Dave Grohl" target="Trent Reznor">
-  <data key="d0">Mantra</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Nirvana" target="Chad Channing">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Dan Peters">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Dale Crover">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Kurt Cobain">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Krist Novoselic">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Jason Everman">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Aaron Burckhard">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nirvana" target="Dave Foster (14)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Courtney Love" target="Hole">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Courtney Love" target="Michael Stipe">
-  <data key="d0">Rio Grande</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Courtney Love" target="Jackshit">
-  <data key="d0">Rio Grande</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Michael Stipe" target="R.E.M.">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Michael Stipe" target="Jackshit">
-  <data key="d0">Rio Grande</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Jackshit" target="Steve Youth">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jackshit" target="Dave Fry">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jackshit" target="Ben Wa (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="R.E.M." target="Mike Mills">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="R.E.M." target="Peter Buck">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="R.E.M." target="Bill Berry (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="R.E.M." target="Bertis Downs IV">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="R.E.M." target="Jefferson Holt">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Melissa Auf Der Maur">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Eric Erlandson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Jill Emery">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Leslie Hardy">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Patty Schemel">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Samantha Maloney">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Kristen Pfaff">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Caroline Rue">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Micko Larkin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Shawn Dailey">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Hole" target="Stuart Fisher (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Melissa Auf Der Maur" target="The Smashing Pumpkins">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Billy Corgan">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="James Iha">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Jimmy Chamberlin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Ginger Reyes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="D'Arcy Wretzky">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Nicole Fiorentino">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Jeff Schroeder">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Smashing Pumpkins" target="Mike Byrne (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="James Iha" target="A Perfect Circle">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Chris Vrenna">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Martin Atkins">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Joshua Eustis">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Trent Reznor">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Charlie Clouser">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Danny Lohner">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Jerome Dillon">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Adrian Belew">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Lisa Fischer">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Richard Patrick">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Sharlotte Gibson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Pino Palladino">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Robin Finck">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Atticus Ross">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Kevin McMahon">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Josh Freese">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Justin Meldal-Johnsen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Eric Avery">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Jeordie White">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Alex Carapetis">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Jeff Ward">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="James Wooley">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Aaron North">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Alessandro Cortini">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Nick Rushe">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Lee Mars">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Ilan Rubin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Gary Talpas">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Rich Fownes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="Ron Musarra">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Nine Inch Nails" target="David Haymes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Chris Vrenna" target="Marilyn Manson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Martin Atkins" target="Killing Joke">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Trent Reznor" target="Josh Homme">
-  <data key="d0">Mantra</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Charlie Clouser" target="Rob Zombie">
-  <data key="d0">Reload</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Charlie Clouser" target="Type O Negative">
-  <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Danny Lohner" target="A Perfect Circle">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Josh Freese" target="A Perfect Circle">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Josh Freese" target="Foo Fighters">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jeordie White" target="A Perfect Circle">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jeordie White" target="Marilyn Manson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Troy Van Leeuwen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Paz Lenchantin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Maynard James Keenan">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Billy Howerdel">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Tim &quot;Herb&quot; Alexander">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Jeff Friedl">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Matt Mcjunkins">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="A Perfect Circle" target="Renholdër">
-  <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="A Perfect Circle" target="Wes Borland">
-  <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Troy Van Leeuwen" target="Queens of the Stone Age">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Renholdër" target="Wes Borland">
-  <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Wes Borland" target="Limp Bizkit">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Wes Borland" target="Marilyn Manson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Fred Durst">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="John Otto">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Terry Balsamo">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Leor Dimant">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Sammy Siegler">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Sam Rivers (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Mike Smith (15)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Limp Bizkit" target="Rob Waters (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Fred Durst" target="Korn">
-  <data key="d0">All In the Family (feat. Fred Durst)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Korn" target="Jonathan Davis">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="David Silveria">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="Ray Luzier">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="Brian Welch">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="James Shaffer">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="Reginald Arvizu">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Korn" target="Ice Cube">
-  <data key="d0">Children of the Korn (feat. Ice Cube)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Korn" target="Chino Moreno">
-  <data key="d0">Wicked (feat. Chino Moreno)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Korn" target="Skrillex">
-  <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Korn" target="Kill The Noise">
-  <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Korn" target="Corey Taylor">
-  <data key="d0">A Different World (feat. Corey Taylor)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Jonathan Davis" target="Rob Zombie">
-  <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Jonathan Davis" target="White Zombie">
-  <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Jonathan Davis" target="Emigrate">
-  <data key="d0">Silent So Long</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Chino Moreno" target="Deftones">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Sergio Vega">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Frank Delgado">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Abe Cunningham">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Chi Cheng">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Stephen Carpenter">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="Dominic Garcia">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Deftones" target="John Taylor (31)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Skrillex" target="Kill The Noise">
-  <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Corey Taylor" target="Slipknot">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Joey Jordison">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="James Root">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Sid Wilson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Chris Fehn">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Paul Gray (3)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Shawn Crahan">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Craig Jones (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Mick Thomson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Josh Brainard">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Michael Pfaff">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Donnie Steele">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Jay Weinberg">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Brandon Darner">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Eloy Casagrande">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Greg Welts">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Alessandro Venturella">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Kun P. Nong">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Slipknot" target="Andy Rouw">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="deadmau5" target="Rob Swire">
-  <data key="d0">Ghosts 'n' Stuff</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Rob Swire" target="Pendulum">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Prodigy" target="Liam Howlett">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Prodigy" target="Keith Flint">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Prodigy" target="Leeroy Thornhill">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Prodigy" target="Keith Palmer">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Prodigy" target="Pendulum">
-  <data key="d0">Voodoo People - Pendulum Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Pendulum" target="Jakes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Paul Kodish">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="El Hornet">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Peredur Ap Gwynedd">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Gareth McGrillen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Paul Harding (3)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="KJ Sawka">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Benjamin Mount">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="Matt White (3)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Pendulum" target="In Flames">
-  <data key="d0">Self vs Self (feat. In Flames)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="In Flames" target="Jesper Strömblad">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Anders Fridén">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Daniel Erlandsson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Anders Iwers">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Johan Larsson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Glenn Ljungström">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Björn Gelotte">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Carl Näslund">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Daniel Svensson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Peter Iwers">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Chris Broderick">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Niclas Engelin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Joe Rickard">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Tanner Wayne">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="In Flames" target="Bryce Paul Newman">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Martin Persner">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Simon Söderberg">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Tobias Forge">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Rikard Ottosson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Aksel Holmgren">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Gustaf Lindström">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Ghost" target="Megan X Thomas">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Martin Persner" target="MCC [Magna Carta Cartel]">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Martin Persner" target="Novarupta">
-  <data key="d0">Trieste</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Simon Söderberg" target="MCC [Magna Carta Cartel]">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Tobias Forge" target="MCC [Magna Carta Cartel]">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Taylor Hawkins">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Rami Jaffee">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Nate Mendel">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="William Goldsmith">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Franz Stahl">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Chris Shiflett">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Foo Fighters" target="Georg Ruthenberg">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Mark Lanegan">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Josh Homme">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Alain Johannes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Chris Goss">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Nick Oliveri">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Jon Theodore">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Natasha Shneider">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Joey Castillo">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="David Catching">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Matt Cameron">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="John McBain">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Van Conner">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Mario Lalli">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Jason Albertini">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Eva Nahon">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Milo Beenhakker">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Alfredo Hernandez">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Dan Druff">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Mike Johnson (8)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Gene Trautmann">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Nick Lucero">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Dean Fertita">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Mikey Shuman">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Queens of the Stone Age" target="Brendon McNichol">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Tenacious D" target="Jack Black (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Tenacious D" target="Kyle Gass">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Olsen Involtini">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Mikko Sirén">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Richard Kruspe Bernstein">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Henka Johansson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Arnaud Giroux">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Margaux Bossieux">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Joe Letz">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Emigrate" target="Marilyn Manson">
-  <data key="d0">Hypothetical</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Emigrate" target="Cardinal Copia">
-  <data key="d0">I'm Not Afraid</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Richard Kruspe Bernstein" target="Rammstein">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Tyler Bates">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Ginger Fish">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Scott Putesky">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Tim Skold">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Juan Alderete de la Pena">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="John Lowery">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Sara Lee Lucas">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Gil Sharone">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Brad Stewart">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Brian Warner (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Timothy Linton">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Matt Montgomery (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Stephen Bier">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Daniel Fox (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Fred Sablan">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Reba Meyers">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Paul Wiley (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Brandon Pertzborn">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Marilyn Manson" target="Avril Lavigne">
-  <data key="d0">Bad Girl (feat. Marilyn Manson)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Marilyn Manson" target="Rob Zombie">
-  <data key="d0">Helter Skelter</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Rob Zombie" target="Five Finger Death Punch">
-  <data key="d0">Burn MF (feat Rob Zombie)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Rob Zombie" target="White Zombie">
-  <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Darrell Roberts">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Jeremy Spencer (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Zoltan Bathory">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Ivan Moody (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Jason Hook">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Matt Snell">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Chris Kael">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Caleb Bingham">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Andy James (9)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Five Finger Death Punch" target="Charlie Engen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Jay Yuenger">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="John Tempesta">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Ivan DePrume">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="John Ricci">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Phil Buerstatte">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Tim Jeffs">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Peter Landau">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Paul &quot;Ena&quot; Kostabi">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Shauna Reynolds">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Robert Cummings (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="White Zombie" target="Tom Guay (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Type O Negative" target="Josh Silver">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Type O Negative" target="Johnny Kelly">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Type O Negative" target="Kenny Hickey">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Type O Negative" target="Sal Abruscato">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Type O Negative" target="Peter Ratajczyk">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Rammstein" target="Christoph Schneider">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Rammstein" target="Paul Landers">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Rammstein" target="Christian Lorenz">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Rammstein" target="Till Lindemann">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Rammstein" target="Oliver Riedel">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Paul Raven">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Greg Hunter">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Jaz Coleman">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Kris Kylven">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Ted Parsons">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Paul Ferguson (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Geordie Walker">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Reza Udhin">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Geoff Dugmore">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Ben Calvert">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Martin Glover">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Dave Ball (3)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Kneill Brown">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Killing Joke" target="Tom Dalgety">
-  <data key="d0">Big Buzz - Motorcade Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Killing Joke" target="Nick Evans">
-  <data key="d0">Big Buzz - Motorcade Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Tom Dalgety" target="Nick Evans">
-  <data key="d0">Big Buzz - Motorcade Mix</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Massive Attack" target="Robert Del Naja">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Massive Attack" target="Grant Marshall">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Massive Attack" target="Andrew Vowles">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Massive Attack" target="Adrian Thaws">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Massive Attack" target="Elizabeth Fraser">
-  <data key="d0">Teardrop</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Elizabeth Fraser" target="Cocteau Twins">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Cocteau Twins" target="Robin Guthrie">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Cocteau Twins" target="Simon Raymonde">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Cocteau Twins" target="Ben Blakeman">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Cocteau Twins" target="Will Heggie">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Cocteau Twins" target="Harold Budd">
-  <data key="d0">Sea, Swallow Me</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Spice" target="Emma Bunton">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Spice" target="Geri Halliwell">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Spice" target="Melanie Chisholm">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Spice" target="Melanie Brown">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Spice" target="Victoria Adams">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Spice" target="Sean Paul">
-  <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Spice" target="Shaggy">
-  <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Sean Paul" target="Shaggy">
-  <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Shaggy" target="Costi">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Shaggy" target="Boy Spyce">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Shaggy" target="Konshens">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Shaggy" target="Sting">
-  <data key="d0">Don't Make Me Wait (with Shaggy)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Costi" target="Boy Spyce">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Costi" target="Konshens">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Boy Spyce" target="Konshens">
-  <data key="d0">Pretty Woman - Long Version</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="MCC [Magna Carta Cartel]" target="Arvid Persner">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="MCC [Magna Carta Cartel]" target="Pär Glendor">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Novarupta" target="Alex Stjernfeldt">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Steve Aoki" target="The Bloody Beetroots">
-  <data key="d0">New Noise</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Steve Aoki" target="Refused">
-  <data key="d0">New Noise</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="The Bloody Beetroots" target="Simone Cogo">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="The Bloody Beetroots" target="Refused">
-  <data key="d0">New Noise</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="The Bloody Beetroots" target="Tom Morello">
-  <data key="d0">Lightning Over Mexico</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="The Bloody Beetroots" target="Ana Tijoux">
-  <data key="d0">Lightning Over Mexico</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="The Bloody Beetroots" target="Jet">
-  <data key="d0">My Name Is Thunder (Rock Version) - Bonus Track</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Refused" target="Mattias Bärjed">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="David Sandström">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Dennis Lyxzén">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Magnus Björklund">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Kristofer Steen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Jon Brännström">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Ulf Nyberg">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Pär Hansson">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Magnus Höggren">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Henrik Jansson (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="Jonas Lidgren">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Refused" target="SAMURAI">
-  <data key="d0">Chippin' In</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Tom Morello" target="Ana Tijoux">
-  <data key="d0">Lightning Over Mexico</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Jet" target="Mark Wilson (3)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jet" target="Nic Cester">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jet" target="Cameron Muncey">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jet" target="Chris Cester">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Jet" target="Doug Armstrong (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Yujin Harada">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Tetsu Yamauchi">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Sabu Toyozumi">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Mike Walker (4)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Joe Dunnet">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Hiro Izumi">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="John Redfern (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Goro Yamamoto">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="SAMURAI" target="Kunimitsu Fuyuume">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="mgk" target="YUNGBLUD">
-  <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="mgk" target="Travis Barker">
-  <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="YUNGBLUD" target="Travis Barker">
-  <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="YUNGBLUD" target="Bring Me The Horizon">
-  <data key="d0">Obey (with YUNGBLUD)</data>
-  <data key="d1">collab</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Jona Weinhofen">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Matthew Nicholls (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Curtis Ward">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Oliver Sykes">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Lee Malia">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Matt Kean">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Jordan Fish (2)">
-  <data key="d1">band_member</data>
-</edge>
-<edge source="Bring Me The Horizon" target="Ed Sheeran">
-  <data key="d0">Bad Habits (feat. Bring Me The Horizon)</data>
-  <data key="d1">collab</data>
-</edge>
-</graph></graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="type" attr.type="string" />
+  <key id="d0" for="edge" attr.name="song" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ozzy Osbourne" />
+    <node id="Lemmy" />
+    <node id="Motörhead" />
+    <node id="Larry Wallis" />
+    <node id="Eddie Clarke" />
+    <node id="Pete Gill" />
+    <node id="Brian Robertson" />
+    <node id="Phil Campbell" />
+    <node id="Phil Taylor" />
+    <node id="Lucas Fox" />
+    <node id="Michael Burston" />
+    <node id="Ian Fraser Kilmister" />
+    <node id="Micael Kiriakos Delaoglou" />
+    <node id="Metallica" />
+    <node id="Kirk Hammett" />
+    <node id="Lars Ulrich" />
+    <node id="Dave Mustaine" />
+    <node id="James Hetfield" />
+    <node id="Cliff Burton" />
+    <node id="Jason Newsted" />
+    <node id="Robert Trujillo" />
+    <node id="Ron McGovney" />
+    <node id="Probot" />
+    <node id="Dave Grohl" />
+    <node id="Matt Sweeney" />
+    <node id="Adam Kasper" />
+    <node id="Nirvana" />
+    <node id="Chad Channing" />
+    <node id="Dan Peters" />
+    <node id="Dale Crover" />
+    <node id="Kurt Cobain" />
+    <node id="Krist Novoselic" />
+    <node id="Jason Everman" />
+    <node id="Aaron Burckhard" />
+    <node id="Dave Foster (14)" />
+    <node id="Courtney Love" />
+    <node id="Michael Stipe" />
+    <node id="Jackshit" />
+    <node id="Steve Youth" />
+    <node id="Dave Fry" />
+    <node id="Ben Wa (2)" />
+    <node id="R.E.M." />
+    <node id="Mike Mills" />
+    <node id="Peter Buck" />
+    <node id="Bill Berry (2)" />
+    <node id="Bertis Downs IV" />
+    <node id="Jefferson Holt" />
+    <node id="Hole" />
+    <node id="Melissa Auf Der Maur" />
+    <node id="Eric Erlandson" />
+    <node id="Jill Emery" />
+    <node id="Leslie Hardy" />
+    <node id="Patty Schemel" />
+    <node id="Samantha Maloney" />
+    <node id="Kristen Pfaff" />
+    <node id="Caroline Rue" />
+    <node id="Micko Larkin" />
+    <node id="Shawn Dailey" />
+    <node id="Stuart Fisher (2)" />
+    <node id="Melissa Auf der Maur" />
+    <node id="The Smashing Pumpkins" />
+    <node id="Billy Corgan" />
+    <node id="James Iha" />
+    <node id="Jimmy Chamberlin" />
+    <node id="Ginger Reyes" />
+    <node id="D'Arcy Wretzky" />
+    <node id="Nicole Fiorentino" />
+    <node id="Jeff Schroeder" />
+    <node id="Mike Byrne (2)" />
+    <node id="Nine Inch Nails" />
+    <node id="Chris Vrenna" />
+    <node id="Martin Atkins" />
+    <node id="Joshua Eustis" />
+    <node id="Trent Reznor" />
+    <node id="Charlie Clouser" />
+    <node id="Danny Lohner" />
+    <node id="Jerome Dillon" />
+    <node id="Adrian Belew" />
+    <node id="Lisa Fischer" />
+    <node id="Richard Patrick" />
+    <node id="Sharlotte Gibson" />
+    <node id="Pino Palladino" />
+    <node id="Robin Finck" />
+    <node id="Atticus Ross" />
+    <node id="Kevin McMahon" />
+    <node id="Josh Freese" />
+    <node id="Justin Meldal-Johnsen" />
+    <node id="Eric Avery" />
+    <node id="Jeordie White" />
+    <node id="Alex Carapetis" />
+    <node id="Jeff Ward" />
+    <node id="James Wooley" />
+    <node id="Aaron North" />
+    <node id="Alessandro Cortini" />
+    <node id="Nick Rushe" />
+    <node id="Lee Mars" />
+    <node id="Ilan Rubin" />
+    <node id="Gary Talpas" />
+    <node id="Rich Fownes" />
+    <node id="Ron Musarra" />
+    <node id="David Haymes" />
+    <node id="A Perfect Circle" />
+    <node id="Troy Van Leeuwen" />
+    <node id="Paz Lenchantin" />
+    <node id="Maynard James Keenan" />
+    <node id="Billy Howerdel" />
+    <node id="Tim &quot;Herb&quot; Alexander" />
+    <node id="Jeff Friedl" />
+    <node id="Matt Mcjunkins" />
+    <node id="Renholdër" />
+    <node id="Wes Borland" />
+    <node id="Limp Bizkit" />
+    <node id="Fred Durst" />
+    <node id="John Otto" />
+    <node id="Terry Balsamo" />
+    <node id="Leor Dimant" />
+    <node id="Sammy Siegler" />
+    <node id="Sam Rivers (2)" />
+    <node id="Mike Smith (15)" />
+    <node id="Rob Waters (2)" />
+    <node id="Korn" />
+    <node id="Jonathan Davis" />
+    <node id="David Silveria" />
+    <node id="Ray Luzier" />
+    <node id="Brian Welch" />
+    <node id="James Shaffer" />
+    <node id="Reginald Arvizu" />
+    <node id="Ice Cube" />
+    <node id="Chino Moreno" />
+    <node id="Deftones" />
+    <node id="Sergio Vega" />
+    <node id="Frank Delgado" />
+    <node id="Abe Cunningham" />
+    <node id="Chi Cheng" />
+    <node id="Stephen Carpenter" />
+    <node id="Dominic Garcia" />
+    <node id="John Taylor (31)" />
+    <node id="✝✝✝ (Crosses)" />
+    <node id="Skrillex" />
+    <node id="Kill The Noise" />
+    <node id="Corey Taylor" />
+    <node id="Slipknot" />
+    <node id="Joey Jordison" />
+    <node id="James Root" />
+    <node id="Sid Wilson" />
+    <node id="Chris Fehn" />
+    <node id="Paul Gray (3)" />
+    <node id="Shawn Crahan" />
+    <node id="Craig Jones (2)" />
+    <node id="Mick Thomson" />
+    <node id="Josh Brainard" />
+    <node id="Michael Pfaff" />
+    <node id="Donnie Steele" />
+    <node id="Jay Weinberg" />
+    <node id="Brandon Darner" />
+    <node id="Eloy Casagrande" />
+    <node id="Greg Welts" />
+    <node id="Alessandro Venturella" />
+    <node id="Kun P. Nong" />
+    <node id="Andy Rouw" />
+    <node id="deadmau5" />
+    <node id="Rob Swire" />
+    <node id="The Prodigy" />
+    <node id="Liam Howlett" />
+    <node id="Keith Flint" />
+    <node id="Leeroy Thornhill" />
+    <node id="Keith Palmer" />
+    <node id="Pendulum" />
+    <node id="Jakes" />
+    <node id="Paul Kodish" />
+    <node id="El Hornet" />
+    <node id="Peredur Ap Gwynedd" />
+    <node id="Gareth McGrillen" />
+    <node id="Paul Harding (3)" />
+    <node id="KJ Sawka" />
+    <node id="Benjamin Mount" />
+    <node id="Matt White (3)" />
+    <node id="In Flames" />
+    <node id="Jesper Strömblad" />
+    <node id="Anders Fridén" />
+    <node id="Daniel Erlandsson" />
+    <node id="Anders Iwers" />
+    <node id="Johan Larsson" />
+    <node id="Glenn Ljungström" />
+    <node id="Björn Gelotte" />
+    <node id="Carl Näslund" />
+    <node id="Daniel Svensson" />
+    <node id="Peter Iwers" />
+    <node id="Chris Broderick" />
+    <node id="Niclas Engelin" />
+    <node id="Joe Rickard" />
+    <node id="Tanner Wayne" />
+    <node id="Bryce Paul Newman" />
+    <node id="Niels Nielsen" />
+    <node id="Ghost" />
+    <node id="Martin Persner" />
+    <node id="Simon Söderberg" />
+    <node id="Tobias Forge" />
+    <node id="Rikard Ottosson" />
+    <node id="Aksel Holmgren" />
+    <node id="Gustaf Lindström" />
+    <node id="Megan X Thomas" />
+    <node id="Foo Fighters" />
+    <node id="Taylor Hawkins" />
+    <node id="Rami Jaffee" />
+    <node id="Nate Mendel" />
+    <node id="William Goldsmith" />
+    <node id="Franz Stahl" />
+    <node id="Chris Shiflett" />
+    <node id="Georg Ruthenberg" />
+    <node id="Queens of the Stone Age" />
+    <node id="Mark Lanegan" />
+    <node id="Josh Homme" />
+    <node id="Alain Johannes" />
+    <node id="Chris Goss" />
+    <node id="Nick Oliveri" />
+    <node id="Jon Theodore" />
+    <node id="Natasha Shneider" />
+    <node id="Joey Castillo" />
+    <node id="David Catching" />
+    <node id="Matt Cameron" />
+    <node id="John McBain" />
+    <node id="Van Conner" />
+    <node id="Mario Lalli" />
+    <node id="Jason Albertini" />
+    <node id="Eva Nahon" />
+    <node id="Milo Beenhakker" />
+    <node id="Alfredo Hernandez" />
+    <node id="Dan Druff" />
+    <node id="Mike Johnson (8)" />
+    <node id="Gene Trautmann" />
+    <node id="Nick Lucero" />
+    <node id="Dean Fertita" />
+    <node id="Mikey Shuman" />
+    <node id="Brendon McNichol" />
+    <node id="Jack Black" />
+    <node id="Tenacious D" />
+    <node id="Jack Black (2)" />
+    <node id="Kyle Gass" />
+    <node id="Emigrate" />
+    <node id="Olsen Involtini" />
+    <node id="Mikko Sirén" />
+    <node id="Richard Kruspe Bernstein" />
+    <node id="Henka Johansson" />
+    <node id="Arnaud Giroux" />
+    <node id="Margaux Bossieux" />
+    <node id="Joe Letz" />
+    <node id="Marilyn Manson" />
+    <node id="Tyler Bates" />
+    <node id="Ginger Fish" />
+    <node id="Scott Putesky" />
+    <node id="Tim Skold" />
+    <node id="Juan Alderete de la Pena" />
+    <node id="John Lowery" />
+    <node id="Sara Lee Lucas" />
+    <node id="Gil Sharone" />
+    <node id="Brad Stewart" />
+    <node id="Brian Warner (2)" />
+    <node id="Timothy Linton" />
+    <node id="Matt Montgomery (2)" />
+    <node id="Stephen Bier" />
+    <node id="Daniel Fox (2)" />
+    <node id="Fred Sablan" />
+    <node id="Reba Meyers" />
+    <node id="Paul Wiley (2)" />
+    <node id="Brandon Pertzborn" />
+    <node id="Avril Lavigne" />
+    <node id="Rob Zombie" />
+    <node id="Five Finger Death Punch" />
+    <node id="Darrell Roberts" />
+    <node id="Jeremy Spencer (2)" />
+    <node id="Zoltan Bathory" />
+    <node id="Ivan Moody (2)" />
+    <node id="Jason Hook" />
+    <node id="Matt Snell" />
+    <node id="Chris Kael" />
+    <node id="Caleb Bingham" />
+    <node id="Andy James (9)" />
+    <node id="Charlie Engen" />
+    <node id="White Zombie" />
+    <node id="Jay Yuenger" />
+    <node id="John Tempesta" />
+    <node id="Ivan DePrume" />
+    <node id="John Ricci" />
+    <node id="Phil Buerstatte" />
+    <node id="Tim Jeffs" />
+    <node id="Peter Landau" />
+    <node id="Paul &quot;Ena&quot; Kostabi" />
+    <node id="Shauna Reynolds" />
+    <node id="Robert Cummings (2)" />
+    <node id="Tom Guay (2)" />
+    <node id="Cardinal Copia" />
+    <node id="Type O Negative" />
+    <node id="Josh Silver" />
+    <node id="Johnny Kelly" />
+    <node id="Kenny Hickey" />
+    <node id="Sal Abruscato" />
+    <node id="Peter Ratajczyk" />
+    <node id="Rammstein" />
+    <node id="Christoph Schneider" />
+    <node id="Paul Landers" />
+    <node id="Christian Lorenz" />
+    <node id="Till Lindemann" />
+    <node id="Oliver Riedel" />
+    <node id="Killing Joke" />
+    <node id="Paul Raven" />
+    <node id="Greg Hunter" />
+    <node id="Jaz Coleman" />
+    <node id="Kris Kylven" />
+    <node id="Ted Parsons" />
+    <node id="Paul Ferguson (2)" />
+    <node id="Geordie Walker" />
+    <node id="Reza Udhin" />
+    <node id="Geoff Dugmore" />
+    <node id="Ben Calvert" />
+    <node id="Martin Glover" />
+    <node id="Dave Ball (3)" />
+    <node id="Kneill Brown" />
+    <node id="Tom Dalgety" />
+    <node id="Nick Evans" />
+    <node id="Massive Attack" />
+    <node id="Robert Del Naja" />
+    <node id="Grant Marshall" />
+    <node id="Andrew Vowles" />
+    <node id="Adrian Thaws" />
+    <node id="Elizabeth Fraser" />
+    <node id="Cocteau Twins" />
+    <node id="Robin Guthrie" />
+    <node id="Simon Raymonde" />
+    <node id="Ben Blakeman" />
+    <node id="Will Heggie" />
+    <node id="Harold Budd" />
+    <node id="Jeff Buckley" />
+    <node id="Westside Gunn" />
+    <node id="Spice" />
+    <node id="Emma Bunton" />
+    <node id="Geri Halliwell" />
+    <node id="Melanie Chisholm" />
+    <node id="Melanie Brown" />
+    <node id="Victoria Adams" />
+    <node id="Sean Paul" />
+    <node id="Shaggy" />
+    <node id="Costi" />
+    <node id="Boy Spyce" />
+    <node id="Konshens" />
+    <node id="Sting" />
+    <node id="MCC [Magna Carta Cartel]" />
+    <node id="Arvid Persner" />
+    <node id="Pär Glendor" />
+    <node id="Novarupta" />
+    <node id="Alex Stjernfeldt" />
+    <node id="Steve Aoki" />
+    <node id="The Bloody Beetroots" />
+    <node id="Simone Cogo" />
+    <node id="Refused" />
+    <node id="Mattias Bärjed" />
+    <node id="David Sandström" />
+    <node id="Dennis Lyxzén" />
+    <node id="Magnus Björklund" />
+    <node id="Kristofer Steen" />
+    <node id="Jon Brännström" />
+    <node id="Ulf Nyberg" />
+    <node id="Pär Hansson" />
+    <node id="Magnus Höggren" />
+    <node id="Henrik Jansson (2)" />
+    <node id="Jonas Lidgren" />
+    <node id="Tom Morello" />
+    <node id="Ana Tijoux" />
+    <node id="Jet" />
+    <node id="Mark Wilson (3)" />
+    <node id="Nic Cester" />
+    <node id="Cameron Muncey" />
+    <node id="Chris Cester" />
+    <node id="Doug Armstrong (2)" />
+    <node id="SAMURAI" />
+    <node id="Yujin Harada" />
+    <node id="Tetsu Yamauchi" />
+    <node id="Sabu Toyozumi" />
+    <node id="Mike Walker (4)" />
+    <node id="Joe Dunnet" />
+    <node id="Hiro Izumi" />
+    <node id="John Redfern (2)" />
+    <node id="Goro Yamamoto" />
+    <node id="Kunimitsu Fuyuume" />
+    <node id="mgk" />
+    <node id="YUNGBLUD" />
+    <node id="Travis Barker" />
+    <node id="Bring Me The Horizon" />
+    <node id="Jona Weinhofen" />
+    <node id="Matthew Nicholls (2)" />
+    <node id="Curtis Ward" />
+    <node id="Oliver Sykes" />
+    <node id="Lee Malia" />
+    <node id="Matt Kean" />
+    <node id="Jordan Fish (2)" />
+    <node id="Ed Sheeran" />
+    <node id="Mastodon" />
+    <node id="Bill Kelliher" />
+    <node id="Troy Sanders" />
+    <node id="Brann Dailor" />
+    <node id="Brent Hinds" />
+    <node id="Eric Saner" />
+    <node id="Kvelertak" />
+    <node id="Ivar Nikolaisen" />
+    <node id="Håvard Takle Ohr" />
+    <node id="Erlend Hjelvik" />
+    <node id="Vidar Landa" />
+    <node id="Bjarte Lund Rolland" />
+    <node id="Kjetil Gjermundrød" />
+    <node id="Maciek Ofstad" />
+    <node id="Marvin Nygaard" />
+    <node id="Anders Mosness" />
+    <node id="Kyuss" />
+    <node id="John Garcia (2)" />
+    <node id="Brant Bjork" />
+    <node id="Scott Reeder" />
+    <node id="Chris Cockrell" />
+    <node id="Them Crooked Vultures" />
+    <node id="John Baldwin" />
+    <node id="Led Zeppelin" />
+    <node id="Jimmy Page" />
+    <node id="Robert Plant" />
+    <node id="John Bonham" />
+    <node id="Failure" />
+    <node id="Ken Andrews" />
+    <node id="Greg Edwards (2)" />
+    <node id="Kellii Scott" />
+    <node id="Robert Gauss" />
+    <node id="Puscifer" />
+    <node id="Paul Barker" />
+    <node id="Mat Mitchell" />
+    <node id="Sarah Jones (3)" />
+    <node id="Carina Round" />
+    <node id="Gunnar Olsen" />
+    <node id="Melvins" />
+    <node id="Paul Leary" />
+    <node id="Joe Preston" />
+    <node id="Billy Anderson" />
+    <node id="Trevor Dunn" />
+    <node id="Mark Deutrom" />
+    <node id="Kevin Rutmanis" />
+    <node id="Jeffrey Pinkus" />
+    <node id="Matt Lukin" />
+    <node id="Lori Black" />
+    <node id="Coady Willis" />
+    <node id="Steven McDonald" />
+    <node id="David Scott Stone" />
+    <node id="Jared Warren" />
+    <node id="Mike Dillard" />
+    <node id="Dave Sharp (5)" />
+    <node id="Roger Osborne" />
+    <edge source="Ozzy Osbourne" target="Lemmy">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Ozzy Osbourne" target="Motörhead">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Ozzy Osbourne" target="Rob Zombie">
+      <data key="d0">Iron Head</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Lemmy" target="Motörhead">
+      <data key="d0">Hellraiser - 30th Anniversary Edition</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Lemmy" target="Probot">
+      <data key="d0">Shake Your Blood (feat. Lemmy Kilmister)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Lemmy" target="Emigrate">
+      <data key="d0">Rock City</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Motörhead" target="Larry Wallis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Eddie Clarke">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Pete Gill">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Brian Robertson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Phil Campbell">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Phil Taylor">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Lucas Fox">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Michael Burston">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Ian Fraser Kilmister">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Motörhead" target="Micael Kiriakos Delaoglou">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Kirk Hammett">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Lars Ulrich">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Dave Mustaine">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="James Hetfield">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Cliff Burton">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Jason Newsted">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Robert Trujillo">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Metallica" target="Ron McGovney">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Probot" target="Dave Grohl">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Probot" target="Matt Sweeney">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Probot" target="Adam Kasper">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Probot" target="Jack Black">
+      <data key="d0">I Am the Warlock (feat. Jack Black)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Dave Grohl" target="Nirvana">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Dave Grohl" target="Foo Fighters">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Dave Grohl" target="Queens of the Stone Age">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Dave Grohl" target="Killing Joke">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Dave Grohl" target="Josh Homme">
+      <data key="d0">Mantra</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Dave Grohl" target="Trent Reznor">
+      <data key="d0">Mantra</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Dave Grohl" target="Them Crooked Vultures">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Chad Channing">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Dan Peters">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Dale Crover">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Kurt Cobain">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Krist Novoselic">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Jason Everman">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Aaron Burckhard">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nirvana" target="Dave Foster (14)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Dale Crover" target="Melvins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Courtney Love" target="Hole">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Courtney Love" target="Michael Stipe">
+      <data key="d0">Rio Grande</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Courtney Love" target="Jackshit">
+      <data key="d0">Rio Grande</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Michael Stipe" target="R.E.M.">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Michael Stipe" target="Jackshit">
+      <data key="d0">Rio Grande</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Jackshit" target="Steve Youth">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jackshit" target="Dave Fry">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jackshit" target="Ben Wa (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="R.E.M." target="Mike Mills">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="R.E.M." target="Peter Buck">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="R.E.M." target="Bill Berry (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="R.E.M." target="Bertis Downs IV">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="R.E.M." target="Jefferson Holt">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Melissa Auf Der Maur">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Eric Erlandson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Jill Emery">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Leslie Hardy">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Patty Schemel">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Samantha Maloney">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Kristen Pfaff">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Caroline Rue">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Micko Larkin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Shawn Dailey">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Hole" target="Stuart Fisher (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melissa Auf Der Maur" target="The Smashing Pumpkins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Billy Corgan">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="James Iha">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Jimmy Chamberlin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Ginger Reyes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="D'Arcy Wretzky">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Nicole Fiorentino">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Jeff Schroeder">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Smashing Pumpkins" target="Mike Byrne (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="James Iha" target="A Perfect Circle">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Chris Vrenna">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Martin Atkins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Joshua Eustis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Trent Reznor">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Charlie Clouser">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Danny Lohner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Jerome Dillon">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Adrian Belew">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Lisa Fischer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Richard Patrick">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Sharlotte Gibson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Pino Palladino">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Robin Finck">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Atticus Ross">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Kevin McMahon">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Josh Freese">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Justin Meldal-Johnsen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Eric Avery">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Jeordie White">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Alex Carapetis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Jeff Ward">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="James Wooley">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Aaron North">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Alessandro Cortini">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Nick Rushe">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Lee Mars">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Ilan Rubin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Gary Talpas">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Rich Fownes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="Ron Musarra">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nine Inch Nails" target="David Haymes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Chris Vrenna" target="Marilyn Manson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Martin Atkins" target="Killing Joke">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Joshua Eustis" target="Puscifer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Trent Reznor" target="Josh Homme">
+      <data key="d0">Mantra</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Charlie Clouser" target="Rob Zombie">
+      <data key="d0">Reload</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Charlie Clouser" target="Type O Negative">
+      <data key="d0">Cinnamon Girl - Depressed Mode Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Danny Lohner" target="A Perfect Circle">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Josh Freese" target="A Perfect Circle">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Josh Freese" target="Foo Fighters">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jeordie White" target="A Perfect Circle">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jeordie White" target="Marilyn Manson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Troy Van Leeuwen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Paz Lenchantin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Maynard James Keenan">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Billy Howerdel">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Tim &quot;Herb&quot; Alexander">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Jeff Friedl">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Matt Mcjunkins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Renholdër">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="A Perfect Circle" target="Wes Borland">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Troy Van Leeuwen" target="Queens of the Stone Age">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Troy Van Leeuwen" target="Failure">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Maynard James Keenan" target="Puscifer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jeff Friedl" target="Puscifer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Matt Mcjunkins" target="Puscifer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Renholdër" target="Wes Borland">
+      <data key="d0">Weak And Powerless - Tilling My Grave Renholder Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Wes Borland" target="Limp Bizkit">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Wes Borland" target="Marilyn Manson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Fred Durst">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="John Otto">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Terry Balsamo">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Leor Dimant">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Sammy Siegler">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Sam Rivers (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Mike Smith (15)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Limp Bizkit" target="Rob Waters (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Fred Durst" target="Korn">
+      <data key="d0">All In the Family (feat. Fred Durst)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Korn" target="Jonathan Davis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="David Silveria">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="Ray Luzier">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="Brian Welch">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="James Shaffer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="Reginald Arvizu">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Korn" target="Ice Cube">
+      <data key="d0">Children of the Korn (feat. Ice Cube)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Korn" target="Chino Moreno">
+      <data key="d0">Wicked (feat. Chino Moreno)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Korn" target="Skrillex">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Korn" target="Kill The Noise">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Korn" target="Corey Taylor">
+      <data key="d0">A Different World (feat. Corey Taylor)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Jonathan Davis" target="Rob Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Jonathan Davis" target="White Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Jonathan Davis" target="Emigrate">
+      <data key="d0">Silent So Long</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Chino Moreno" target="Deftones">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Sergio Vega">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Frank Delgado">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Abe Cunningham">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Chi Cheng">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Stephen Carpenter">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="Dominic Garcia">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Deftones" target="John Taylor (31)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Skrillex" target="Kill The Noise">
+      <data key="d0">Narcissistic Cannibal (feat. Skrillex &amp; Kill the Noise)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Corey Taylor" target="Slipknot">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Joey Jordison">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="James Root">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Sid Wilson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Chris Fehn">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Paul Gray (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Shawn Crahan">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Craig Jones (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Mick Thomson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Josh Brainard">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Michael Pfaff">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Donnie Steele">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Jay Weinberg">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Brandon Darner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Eloy Casagrande">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Greg Welts">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Alessandro Venturella">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Kun P. Nong">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Slipknot" target="Andy Rouw">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="deadmau5" target="Rob Swire">
+      <data key="d0">Ghosts 'n' Stuff</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Rob Swire" target="Pendulum">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Prodigy" target="Liam Howlett">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Prodigy" target="Keith Flint">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Prodigy" target="Leeroy Thornhill">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Prodigy" target="Keith Palmer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Prodigy" target="Pendulum">
+      <data key="d0">Voodoo People - Pendulum Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Pendulum" target="Jakes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Paul Kodish">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="El Hornet">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Peredur Ap Gwynedd">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Gareth McGrillen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Paul Harding (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="KJ Sawka">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Benjamin Mount">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="Matt White (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Pendulum" target="In Flames">
+      <data key="d0">Self vs Self (feat. In Flames)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="In Flames" target="Jesper Strömblad">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Anders Fridén">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Daniel Erlandsson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Anders Iwers">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Johan Larsson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Glenn Ljungström">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Björn Gelotte">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Carl Näslund">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Daniel Svensson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Peter Iwers">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Chris Broderick">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Niclas Engelin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Joe Rickard">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Tanner Wayne">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="In Flames" target="Bryce Paul Newman">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Martin Persner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Simon Söderberg">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Tobias Forge">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Rikard Ottosson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Aksel Holmgren">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Gustaf Lindström">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Ghost" target="Megan X Thomas">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Martin Persner" target="MCC [Magna Carta Cartel]">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Martin Persner" target="Novarupta">
+      <data key="d0">Trieste</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Simon Söderberg" target="MCC [Magna Carta Cartel]">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Tobias Forge" target="MCC [Magna Carta Cartel]">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Taylor Hawkins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Rami Jaffee">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Nate Mendel">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="William Goldsmith">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Franz Stahl">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Chris Shiflett">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Foo Fighters" target="Georg Ruthenberg">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Mark Lanegan">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Josh Homme">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Alain Johannes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Chris Goss">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Nick Oliveri">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Jon Theodore">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Natasha Shneider">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Joey Castillo">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="David Catching">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Matt Cameron">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="John McBain">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Van Conner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Mario Lalli">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Jason Albertini">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Eva Nahon">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Milo Beenhakker">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Alfredo Hernandez">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Dan Druff">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Mike Johnson (8)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Gene Trautmann">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Nick Lucero">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Dean Fertita">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Mikey Shuman">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Queens of the Stone Age" target="Brendon McNichol">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Josh Homme" target="Kyuss">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Josh Homme" target="Them Crooked Vultures">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Nick Oliveri" target="Kyuss">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Alfredo Hernandez" target="Kyuss">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Tenacious D" target="Jack Black (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Tenacious D" target="Kyle Gass">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Olsen Involtini">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Mikko Sirén">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Richard Kruspe Bernstein">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Henka Johansson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Arnaud Giroux">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Margaux Bossieux">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Joe Letz">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Emigrate" target="Marilyn Manson">
+      <data key="d0">Hypothetical</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Emigrate" target="Cardinal Copia">
+      <data key="d0">I'm Not Afraid</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Richard Kruspe Bernstein" target="Rammstein">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Tyler Bates">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Ginger Fish">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Scott Putesky">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Tim Skold">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Juan Alderete de la Pena">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="John Lowery">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Sara Lee Lucas">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Gil Sharone">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Brad Stewart">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Brian Warner (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Timothy Linton">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Matt Montgomery (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Stephen Bier">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Daniel Fox (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Fred Sablan">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Reba Meyers">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Paul Wiley (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Brandon Pertzborn">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Avril Lavigne">
+      <data key="d0">Bad Girl (feat. Marilyn Manson)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Marilyn Manson" target="Rob Zombie">
+      <data key="d0">Helter Skelter</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Rob Zombie" target="Five Finger Death Punch">
+      <data key="d0">Burn MF (feat Rob Zombie)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Rob Zombie" target="White Zombie">
+      <data key="d0">Thunder Kiss '65 - JDevil Number Of The Beast Remix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Darrell Roberts">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Jeremy Spencer (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Zoltan Bathory">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Ivan Moody (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Jason Hook">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Matt Snell">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Chris Kael">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Caleb Bingham">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Andy James (9)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Five Finger Death Punch" target="Charlie Engen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Jay Yuenger">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="John Tempesta">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Ivan DePrume">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="John Ricci">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Phil Buerstatte">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Tim Jeffs">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Peter Landau">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Paul &quot;Ena&quot; Kostabi">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Shauna Reynolds">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Robert Cummings (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="White Zombie" target="Tom Guay (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Type O Negative" target="Josh Silver">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Type O Negative" target="Johnny Kelly">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Type O Negative" target="Kenny Hickey">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Type O Negative" target="Sal Abruscato">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Type O Negative" target="Peter Ratajczyk">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Rammstein" target="Christoph Schneider">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Rammstein" target="Paul Landers">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Rammstein" target="Christian Lorenz">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Rammstein" target="Till Lindemann">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Rammstein" target="Oliver Riedel">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Paul Raven">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Greg Hunter">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Jaz Coleman">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Kris Kylven">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Ted Parsons">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Paul Ferguson (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Geordie Walker">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Reza Udhin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Geoff Dugmore">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Ben Calvert">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Martin Glover">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Dave Ball (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Kneill Brown">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Killing Joke" target="Tom Dalgety">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Killing Joke" target="Nick Evans">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Tom Dalgety" target="Nick Evans">
+      <data key="d0">Big Buzz - Motorcade Mix</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Massive Attack" target="Robert Del Naja">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Massive Attack" target="Grant Marshall">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Massive Attack" target="Andrew Vowles">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Massive Attack" target="Adrian Thaws">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Massive Attack" target="Elizabeth Fraser">
+      <data key="d0">Teardrop</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Elizabeth Fraser" target="Cocteau Twins">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Robin Guthrie">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Simon Raymonde">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Ben Blakeman">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Will Heggie">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Cocteau Twins" target="Harold Budd">
+      <data key="d0">Sea, Swallow Me</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Spice" target="Emma Bunton">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Spice" target="Geri Halliwell">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Spice" target="Melanie Chisholm">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Spice" target="Melanie Brown">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Spice" target="Victoria Adams">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Spice" target="Sean Paul">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Spice" target="Shaggy">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Sean Paul" target="Shaggy">
+      <data key="d0">Go Down Deh (feat. Sean Paul &amp; Shaggy)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Shaggy" target="Costi">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Shaggy" target="Boy Spyce">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Shaggy" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Shaggy" target="Sting">
+      <data key="d0">Don't Make Me Wait (with Shaggy)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Costi" target="Boy Spyce">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Costi" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Boy Spyce" target="Konshens">
+      <data key="d0">Pretty Woman - Long Version</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="MCC [Magna Carta Cartel]" target="Arvid Persner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="MCC [Magna Carta Cartel]" target="Pär Glendor">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Novarupta" target="Alex Stjernfeldt">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Steve Aoki" target="The Bloody Beetroots">
+      <data key="d0">New Noise</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Steve Aoki" target="Refused">
+      <data key="d0">New Noise</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="The Bloody Beetroots" target="Simone Cogo">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="The Bloody Beetroots" target="Refused">
+      <data key="d0">New Noise</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="The Bloody Beetroots" target="Tom Morello">
+      <data key="d0">Lightning Over Mexico</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="The Bloody Beetroots" target="Ana Tijoux">
+      <data key="d0">Lightning Over Mexico</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="The Bloody Beetroots" target="Jet">
+      <data key="d0">My Name Is Thunder (Rock Version) - Bonus Track</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Refused" target="Mattias Bärjed">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="David Sandström">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Dennis Lyxzén">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Magnus Björklund">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Kristofer Steen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Jon Brännström">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Ulf Nyberg">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Pär Hansson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Magnus Höggren">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Henrik Jansson (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="Jonas Lidgren">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Refused" target="SAMURAI">
+      <data key="d0">Chippin' In</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Tom Morello" target="Ana Tijoux">
+      <data key="d0">Lightning Over Mexico</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Jet" target="Mark Wilson (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jet" target="Nic Cester">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jet" target="Cameron Muncey">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jet" target="Chris Cester">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Jet" target="Doug Armstrong (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Yujin Harada">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Tetsu Yamauchi">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Sabu Toyozumi">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Mike Walker (4)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Joe Dunnet">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Hiro Izumi">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="John Redfern (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Goro Yamamoto">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="SAMURAI" target="Kunimitsu Fuyuume">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="mgk" target="YUNGBLUD">
+      <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="mgk" target="Travis Barker">
+      <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="YUNGBLUD" target="Travis Barker">
+      <data key="d0">I Think I'm OKAY (with YUNGBLUD &amp; Travis Barker)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="YUNGBLUD" target="Bring Me The Horizon">
+      <data key="d0">Obey (with YUNGBLUD)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Jona Weinhofen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Matthew Nicholls (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Curtis Ward">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Oliver Sykes">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Lee Malia">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Matt Kean">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Jordan Fish (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Bring Me The Horizon" target="Ed Sheeran">
+      <data key="d0">Bad Habits (feat. Bring Me The Horizon)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Mastodon" target="Bill Kelliher">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Mastodon" target="Troy Sanders">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Mastodon" target="Brann Dailor">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Mastodon" target="Brent Hinds">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Mastodon" target="Eric Saner">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Troy Sanders" target="Kvelertak">
+      <data key="d0">Crack of Doom (feat. Troy Sanders)</data>
+      <data key="d1">collab</data>
+    </edge>
+    <edge source="Kvelertak" target="Ivar Nikolaisen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Håvard Takle Ohr">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Erlend Hjelvik">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Vidar Landa">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Bjarte Lund Rolland">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Kjetil Gjermundrød">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Maciek Ofstad">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Marvin Nygaard">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kvelertak" target="Anders Mosness">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kyuss" target="John Garcia (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kyuss" target="Brant Bjork">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kyuss" target="Scott Reeder">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Kyuss" target="Chris Cockrell">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Them Crooked Vultures" target="John Baldwin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="John Baldwin" target="Led Zeppelin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Led Zeppelin" target="Jimmy Page">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Led Zeppelin" target="Robert Plant">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Led Zeppelin" target="John Bonham">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Failure" target="Ken Andrews">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Failure" target="Greg Edwards (2)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Failure" target="Kellii Scott">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Failure" target="Robert Gauss">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Greg Edwards (2)" target="Puscifer">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Puscifer" target="Paul Barker">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Puscifer" target="Mat Mitchell">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Puscifer" target="Sarah Jones (3)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Puscifer" target="Carina Round">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Puscifer" target="Gunnar Olsen">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Paul Leary">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Joe Preston">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Billy Anderson">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Trevor Dunn">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Mark Deutrom">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Kevin Rutmanis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Jeffrey Pinkus">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Matt Lukin">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Lori Black">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Coady Willis">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Steven McDonald">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="David Scott Stone">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Jared Warren">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Mike Dillard">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Dave Sharp (5)">
+      <data key="d1">band_member</data>
+    </edge>
+    <edge source="Melvins" target="Roger Osborne">
+      <data key="d1">band_member</data>
+    </edge>
+  </graph>
+</graphml>
