@@ -1,8 +1,14 @@
 from fastapi import FastAPI
+import connectTest
 
 app = FastAPI()
 
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "asta e API-u. felicitari, mergi pe /artists"}
+
+
+@app.get("/artists/")
+async def root():
+    return connectTest.artists_test_query()
