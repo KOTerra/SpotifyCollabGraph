@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 from requests.auth import HTTPBasicAuth
 
-env_path = Path('../') / '.env'
+env_path = Path('__file__').parent / '.env'
 load_dotenv(dotenv_path=env_path)
 
 url = os.getenv("NEO4J_URI_HTTP_MAGNACLOUDA") + "/db/neo4j/query/v2"

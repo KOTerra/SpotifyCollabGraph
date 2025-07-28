@@ -9,7 +9,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import discogs_client
 import requests
 
-env_path = Path('../') / '.env'
+env_path = Path('__file__').parent / '.env'
 load_dotenv(dotenv_path=env_path)
 
 # API tokens

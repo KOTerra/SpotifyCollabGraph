@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import connectTest
+from . import connectTest
 
 app = FastAPI()
 
