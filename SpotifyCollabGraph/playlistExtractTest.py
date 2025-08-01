@@ -8,6 +8,9 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import discogs_client
 import requests
+from spotipy.exceptions import SpotifyException
+import time
+
 
 env_path = Path('__file__').parent / '.env'
 load_dotenv(dotenv_path=env_path)
@@ -88,13 +91,37 @@ def add_band_to_artist(artist_name, band_name):
         artist_bands[artist_name].append(band_name)
 
 
+
 def get_playlist_tracks(playlist_id):
     tracks = []
-    results = sp.playlist_items(playlist_id)
-    for item in results['items']:
-        track = item['track']
-        artists = [artist['name'] for artist in track['artists']]
-        tracks.append({'name': track['name'], 'artists': artists})
+    limit = 100
+    offset = 0
+
+    while True:
+        try:
+            results = sp.playlist_items(playlist_id, limit=limit, offset=offset)
+            items = results['items']
+            if not items:
+                break
+
+            for item in items:
+                track = item['track']
+                if track is None:
+                    continue  #skip unavailable tracks
+                artists = [artist['name'] for artist in track['artists']]
+                tracks.append({'name': track['name'], 'artists': artists})
+
+            offset += limit
+
+        except SpotifyException as e:
+            if e.http_status == 429:
+                retry_after = int(e.headers.get("Retry-After", 5))
+                print(f"Rate limited by Spotify. Retrying after {retry_after} seconds...")
+                time.sleep(retry_after)
+            else:
+                print(f"Spotify API error: {e}")
+                break
+
     return tracks
 
 
@@ -211,4 +238,4 @@ if __name__ == '__main__':
 
     export_graph(G, GRAPH_FILE)
 
-    visualize_graph(G)
+#    visualize_graph(G)
