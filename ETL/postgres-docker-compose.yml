@@ -13,8 +13,8 @@ services:
       POSTGRES_DB: discogs
     volumes:
       volumes:
-      - /mnt/secondavoluma/postgres:/var/lib/postgresql/data
-      - ./postgresql.conf:/etc/postgresql/postgresql.conf
-      - ./pg_hba.conf:/etc/postgresql/pg_hba.conf
+        - /mnt/secondavoluma/postgres:/var/lib/postgresql/data
+        - ./postgresql.conf:/etc/postgresql/postgresql.conf
+        - ./pg_hba.conf:/etc/postgresql/pg_hba.conf
 
     command: ["postgres", "-c", "config_file=/etc/postgresql/postgresql.conf"]
