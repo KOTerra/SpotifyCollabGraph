@@ -19,6 +19,7 @@ load_dotenv(dotenv_path=env_path)
 client_credentials_manager = SpotifyClientCredentials(client_id=os.getenv("SPOTIFY_CLIENT_ID"),
                                                       client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"))
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+
 discogs = discogs_client.Client('ExampleApplication/0.1', user_token=os.getenv("DISCOGS_USER_TOKEN"))
 
 playlist_id = '1ssL2ME8jwjHRVKf7Cnbur'
@@ -228,7 +229,7 @@ def visualize_graph(G):
 
 # TODO should store in a graph database and mark collab edges with all collabs between artists
 if __name__ == '__main__':
-    discogs_test()
+#   discogs_test()
 
     G = load_graph_from_file(GRAPH_FILE)
 
@@ -238,4 +239,4 @@ if __name__ == '__main__':
 
     export_graph(G, GRAPH_FILE)
 
-#    visualize_graph(G)
+#   visualize_graph(G)
