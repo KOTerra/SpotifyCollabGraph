@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 *.cache
+/SpotifyCollabGraph/.idea
+/SpotifyCollabGraph/.idea
